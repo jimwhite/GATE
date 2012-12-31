@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/ontology
+END
+TransitivePropertyAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/ontology/TransitivePropertyAction.java
+END
+DatatypePropertyAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/ontology/DatatypePropertyAction.java
+END
+SubClassAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/ontology/SubClassAction.java
+END
+KeyValuePair.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/ontology/KeyValuePair.java
+END
+InstanceAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/ontology/InstanceAction.java
+END
+ObjectPropertyAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/ontology/ObjectPropertyAction.java
+END
+PropertyDetailsTableModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/ontology/PropertyDetailsTableModel.java
+END
+PropertyDetailsTableCellRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/ontology/PropertyDetailsTableCellRenderer.java
+END
+RestrictionAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/ontology/RestrictionAction.java
+END
+SymmetricPropertyAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/ontology/SymmetricPropertyAction.java
+END
+ValuesSelectionAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/ontology/ValuesSelectionAction.java
+END
+TreeNodeSelectionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/ontology/TreeNodeSelectionListener.java
+END
+OResourceNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/ontology/OResourceNode.java
+END
+SearchAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/ontology/SearchAction.java
+END
+DeleteOntologyResourceAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/ontology/DeleteOntologyResourceAction.java
+END
+DetailsGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/ontology/DetailsGroup.java
+END
+DetailsTableModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/ontology/DetailsTableModel.java
+END
+OntoTreeCellRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/ontology/OntoTreeCellRenderer.java
+END
+PropertyValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/ontology/PropertyValue.java
+END
+OntologyEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/ontology/OntologyEditor.java
+END
+AnnotationPropertyAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/ontology/AnnotationPropertyAction.java
+END
+TopClassAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/ontology/TopClassAction.java
+END
+OntologyItemComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/ontology/OntologyItemComparator.java
+END
+Utils.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/ontology/Utils.java
+END
+DetailsTableCellRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/ontology/DetailsTableCellRenderer.java
+END

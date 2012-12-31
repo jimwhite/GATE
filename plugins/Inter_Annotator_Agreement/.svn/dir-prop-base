@@ -1,0 +1,13 @@
+K 10
+svn:ignore
+V 29
+build
+iaaMain.jar
+TEST-*.xml
+
+K 13
+svn:mergeinfo
+V 97
+/gate/branches/new-ontology-api/plugins/iaaPlugin:10584-11598
+/gate/trunk/plugins/iaaPlugin:3-390
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/resources/creole/bootstrap/Template
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/resources/creole/bootstrap/Template/build.properties
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/resources/creole/bootstrap/Template/build.xml
+END
+creole.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/resources/creole/bootstrap/Template/creole.xml
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/resources/creole/bootstrap/Template/README
+END

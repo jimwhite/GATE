@@ -1,0 +1,19 @@
+
+
+    // Test23.jape
+    // Minimal test to check advancement logic
+    // Hamish, 23.10.98
+    // $Id: Test23.jape 3 1999-02-03 16:23:11Z hamish $
+
+    Phase:	Test23
+    Options: control = appelt
+
+
+    Rule:	VeryShortRule
+    (
+      {Token.string == "a"}
+    ):a
+    -->
+    :a.A = {rule = "VeryShortRule"}
+
+

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/tokeniser
+END
+TokeniserException.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/tokeniser/TokeniserException.java
+END
+DefaultTokeniser.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/tokeniser/DefaultTokeniser.java
+END
+TestTokeniser.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/tokeniser/TestTokeniser.java
+END
+SimpleTokeniser.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/tokeniser/SimpleTokeniser.java
+END
+InvalidRuleException.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/tokeniser/InvalidRuleException.java
+END
+UnicodeType.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/tokeniser/UnicodeType.java
+END
+DFSMState.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/tokeniser/DFSMState.java
+END
+FSMState.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/tokeniser/FSMState.java
+END

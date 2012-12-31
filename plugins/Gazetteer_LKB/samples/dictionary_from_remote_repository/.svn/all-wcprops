@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Gazetteer_LKB/samples/dictionary_from_remote_repository
+END
+config.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Gazetteer_LKB/samples/dictionary_from_remote_repository/config.ttl
+END
+query.txt
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Gazetteer_LKB/samples/dictionary_from_remote_repository/query.txt
+END

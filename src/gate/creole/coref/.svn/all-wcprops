@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/coref
+END
+NominalCoref.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/coref/NominalCoref.java
+END
+PronominalCoref.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/coref/PronominalCoref.java
+END
+AbstractCoreferencer.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/coref/AbstractCoreferencer.java
+END
+TestCoref.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/coref/TestCoref.java
+END
+Coreferencer.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/coref/Coreferencer.java
+END

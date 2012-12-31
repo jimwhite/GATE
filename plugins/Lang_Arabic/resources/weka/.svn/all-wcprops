@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Arabic/resources/weka
+END
+weka-training.gapp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Arabic/resources/weka/weka-training.gapp
+END
+entity.jape
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Arabic/resources/weka/entity.jape
+END
+wekastuff.gapp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Arabic/resources/weka/wekastuff.gapp
+END
+config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Arabic/resources/weka/config.xml
+END
+weka-test.gapp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Arabic/resources/weka/weka-test.gapp
+END

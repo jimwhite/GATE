@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/OpenNLP/resources
+END
+opennlp.gapp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/OpenNLP/resources/opennlp.gapp
+END
+opennlp-de.gapp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/OpenNLP/resources/opennlp-de.gapp
+END
+opennlp-nl.gapp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/OpenNLP/resources/opennlp-nl.gapp
+END
+tag-to-chunk.jape
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/OpenNLP/resources/tag-to-chunk.jape
+END

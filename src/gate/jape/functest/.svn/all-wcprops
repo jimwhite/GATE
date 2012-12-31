@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/jape/functest
+END
+TestJape.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/jape/functest/TestJape.java
+END
+TestTransducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/jape/functest/TestTransducer.java
+END
+TestJape2.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/jape/functest/TestJape2.java
+END
+TestConstraints.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/jape/functest/TestConstraints.java
+END
+log4j-test.properties
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/jape/functest/log4j-test.properties
+END
+BaseJapeTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/jape/functest/BaseJapeTests.java
+END
+TransducerType.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/jape/functest/TransducerType.java
+END

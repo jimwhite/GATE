@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Language_Identification/src/org/knallgrau/utils/textcat
+END
+FingerprintGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Language_Identification/src/org/knallgrau/utils/textcat/FingerprintGenerator.java
+END
+LanguageIdentifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Language_Identification/src/org/knallgrau/utils/textcat/LanguageIdentifier.java
+END

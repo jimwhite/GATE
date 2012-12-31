@@ -1,0 +1,8 @@
+K 13
+svn:mergeinfo
+V 351
+/gate/branches/new-ontology-api/plugins/Ontology/test/ontologies/wine.rdfxml.owl:10584-11241,11578-11598
+/gate/branches/plugin-Ontology-post-6.1/test/ontologies/wine.rdfxml.owl:13880-13964,13966-14232
+/gate/trunk/plugins/OWLIM3Ontology/test/ontologies/wine.rdf:10584-10802
+/gate/trunk/plugins/OWLIM3Ontology/test/ontologies/wine.rdfxml.owl:10584-10802
+END

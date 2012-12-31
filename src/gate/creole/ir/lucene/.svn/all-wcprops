@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/ir/lucene
+END
+LuceneIREngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/ir/lucene/LuceneIREngine.java
+END
+LuceneIndexManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/ir/lucene/LuceneIndexManager.java
+END
+LuceneSearch.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/ir/lucene/LuceneSearch.java
+END
+LuceneIndexStatistics.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/ir/lucene/LuceneIndexStatistics.java
+END

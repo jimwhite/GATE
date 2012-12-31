@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Hindi/resources/eng_grammar
+END
+main.jape
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Hindi/resources/eng_grammar/main.jape
+END
+remove_features.jape
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Hindi/resources/eng_grammar/remove_features.jape
+END
+final.jape
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Hindi/resources/eng_grammar/final.jape
+END
+person.jape
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Hindi/resources/eng_grammar/person.jape
+END
+gazlocation.jape
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Hindi/resources/eng_grammar/gazlocation.jape
+END
+address.jape
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Hindi/resources/eng_grammar/address.jape
+END
+name_post.jape
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Hindi/resources/eng_grammar/name_post.jape
+END
+org_context.jape
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Hindi/resources/eng_grammar/org_context.jape
+END
+url_pre.jape
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Hindi/resources/eng_grammar/url_pre.jape
+END
+date_pre.jape
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Hindi/resources/eng_grammar/date_pre.jape
+END
+loc_context.jape
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Hindi/resources/eng_grammar/loc_context.jape
+END
+first.jape
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Hindi/resources/eng_grammar/first.jape
+END
+url.jape
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Hindi/resources/eng_grammar/url.jape
+END
+date.jape
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Hindi/resources/eng_grammar/date.jape
+END
+slugbnc.jape
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Hindi/resources/eng_grammar/slugbnc.jape
+END
+slug.jape
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Hindi/resources/eng_grammar/slug.jape
+END
+name.jape
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Hindi/resources/eng_grammar/name.jape
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Hindi/resources/eng_grammar/readme.txt
+END
+unknown.jape
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Hindi/resources/eng_grammar/unknown.jape
+END
+clean.jape
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Hindi/resources/eng_grammar/clean.jape
+END
+identifier.jape
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Hindi/resources/eng_grammar/identifier.jape
+END
+number.jape
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Hindi/resources/eng_grammar/number.jape
+END
+spuriousname.jape
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Hindi/resources/eng_grammar/spuriousname.jape
+END
+reldate.jape
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Hindi/resources/eng_grammar/reldate.jape
+END
+first_context.jape
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Hindi/resources/eng_grammar/first_context.jape
+END
+email.jape
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Hindi/resources/eng_grammar/email.jape
+END
+main-context.jape
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Hindi/resources/eng_grammar/main-context.jape
+END
+jobtitle.jape
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Hindi/resources/eng_grammar/jobtitle.jape
+END
+name_context.jape
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Hindi/resources/eng_grammar/name_context.jape
+END
+firstname.jape
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Hindi/resources/eng_grammar/firstname.jape
+END

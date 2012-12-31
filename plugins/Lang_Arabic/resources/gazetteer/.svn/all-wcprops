@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Arabic/resources/gazetteer
+END
+ordinals.lst
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Arabic/resources/gazetteer/ordinals.lst
+END
+facility.lst
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Arabic/resources/gazetteer/facility.lst
+END
+percent.lst
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Arabic/resources/gazetteer/percent.lst
+END
+location_other.lst
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Arabic/resources/gazetteer/location_other.lst
+END
+mountains.lst
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Arabic/resources/gazetteer/mountains.lst
+END
+special_lists.def
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Arabic/resources/gazetteer/special_lists.def
+END
+rivers.lst
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Arabic/resources/gazetteer/rivers.lst
+END
+country_world.lst
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Arabic/resources/gazetteer/country_world.lst
+END
+numbers.lst
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Arabic/resources/gazetteer/numbers.lst
+END
+city.lst
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Arabic/resources/gazetteer/city.lst
+END
+monuments.lst
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Arabic/resources/gazetteer/monuments.lst
+END
+places.lst
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Arabic/resources/gazetteer/places.lst
+END
+lists.def
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Arabic/resources/gazetteer/lists.def
+END
+time.lst
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Arabic/resources/gazetteer/time.lst
+END
+oceans_seas_islands.lst
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Arabic/resources/gazetteer/oceans_seas_islands.lst
+END
+date_key.lst
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Arabic/resources/gazetteer/date_key.lst
+END
+places_eng.txt
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Arabic/resources/gazetteer/places_eng.txt
+END
+currency.lst
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Arabic/resources/gazetteer/currency.lst
+END
+cardinals.lst
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Arabic/resources/gazetteer/cardinals.lst
+END
+months.lst
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Arabic/resources/gazetteer/months.lst
+END
+female_names.lst
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Arabic/resources/gazetteer/female_names.lst
+END
+conjunction.lst
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Arabic/resources/gazetteer/conjunction.lst
+END
+male_names.lst
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Arabic/resources/gazetteer/male_names.lst
+END
+country.lst
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Arabic/resources/gazetteer/country.lst
+END
+days.lst
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Arabic/resources/gazetteer/days.lst
+END
+surnames.lst
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Arabic/resources/gazetteer/surnames.lst
+END
+organisations.lst
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Arabic/resources/gazetteer/organisations.lst
+END
+titles.lst
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Arabic/resources/gazetteer/titles.lst
+END
+city_world.lst
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Arabic/resources/gazetteer/city_world.lst
+END

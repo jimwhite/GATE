@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Hindi/resources/grammar
+END
+clean.jape
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Hindi/resources/grammar/clean.jape
+END
+main.jape
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Hindi/resources/grammar/main.jape
+END
+trained.jape
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Hindi/resources/grammar/trained.jape
+END
+final.jape
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Hindi/resources/grammar/final.jape
+END
+person.jape
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Hindi/resources/grammar/person.jape
+END
+location.jape
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Hindi/resources/grammar/location.jape
+END
+gazlocation.jape
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Hindi/resources/grammar/gazlocation.jape
+END
+inferred.jape
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Hindi/resources/grammar/inferred.jape
+END
+first.jape
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Hindi/resources/grammar/first.jape
+END
+process.jape
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Hindi/resources/grammar/process.jape
+END

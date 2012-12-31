@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Parser_SUPPLE/prolog
+END
+supple_io.pl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Parser_SUPPLE/prolog/supple_io.pl
+END
+mkparser_sicstus.pl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Parser_SUPPLE/prolog/mkparser_sicstus.pl
+END
+parse_file.pl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Parser_SUPPLE/prolog/parse_file.pl
+END
+update_name_match.pl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Parser_SUPPLE/prolog/update_name_match.pl
+END
+plcafe_supple_io.pl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Parser_SUPPLE/prolog/plcafe_supple_io.pl
+END
+mkparser_swi.pl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Parser_SUPPLE/prolog/mkparser_swi.pl
+END
+dynamic.pl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Parser_SUPPLE/prolog/dynamic.pl
+END
+supple.pl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Parser_SUPPLE/prolog/supple.pl
+END
+compile_grammar.pl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Parser_SUPPLE/prolog/compile_grammar.pl
+END
+mkparser_plcafe.pl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Parser_SUPPLE/prolog/mkparser_plcafe.pl
+END
+sicstus4_utils.pl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Parser_SUPPLE/prolog/sicstus4_utils.pl
+END
+sicstus3_utils.pl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Parser_SUPPLE/prolog/sicstus3_utils.pl
+END
+best_parse.pl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Parser_SUPPLE/prolog/best_parse.pl
+END
+swi_utils.pl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Parser_SUPPLE/prolog/swi_utils.pl
+END
+supple_runtime.pl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Parser_SUPPLE/prolog/supple_runtime.pl
+END
+ne_rules.pl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Parser_SUPPLE/prolog/ne_rules.pl
+END
+semantics.pl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Parser_SUPPLE/prolog/semantics.pl
+END
+supple_utils.pl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Parser_SUPPLE/prolog/supple_utils.pl
+END
+plcafe_utils.pl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Parser_SUPPLE/prolog/plcafe_utils.pl
+END

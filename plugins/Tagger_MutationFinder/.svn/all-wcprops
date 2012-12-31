@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_MutationFinder
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_MutationFinder/build.xml
+END
+creole.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_MutationFinder/creole.xml
+END

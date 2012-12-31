@@ -1,0 +1,647 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer
+END
+fr_country.lst
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/fr_country.lst
+END
+cdg.lst
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/cdg.lst
+END
+country_cap.lst
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/country_cap.lst
+END
+spur_ident.lst
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/spur_ident.lst
+END
+date.lst
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/date.lst
+END
+timex_pre.lst
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/timex_pre.lst
+END
+province.lst
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/province.lst
+END
+organization.lst
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/organization.lst
+END
+fr_drug.lst
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/fr_drug.lst
+END
+govern_key.lst
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/govern_key.lst
+END
+org_spur.lst
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/org_spur.lst
+END
+time_unit.lst
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/time_unit.lst
+END
+charities.lst
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/charities.lst
+END
+person_male.lst
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/person_male.lst
+END
+loc_relig.lst
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/loc_relig.lst
+END
+person_full.lst
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/person_full.lst
+END
+loc_prekey.lst
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/loc_prekey.lst
+END
+year.lst
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/year.lst
+END
+ministry.lst
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/ministry.lst
+END
+region_uk.lst
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/region_uk.lst
+END
+org_key_ext_fr.lst
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/org_key_ext_fr.lst
+END
+times.lst
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/times.lst
+END
+person_first.lst
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/person_first.lst
+END
+org_pre.lst
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/org_pre.lst
+END
+fr_nationality.lst
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/fr_nationality.lst
+END
+person_male_cap.lst
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/person_male_cap.lst
+END
+numbers.lst
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/numbers.lst
+END
+org_base.lst
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/org_base.lst
+END
+lists.def
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/lists.def
+END
+company_fr.lst
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/company_fr.lst
+END
+date_key.lst
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/date_key.lst
+END
+person_ending.lst
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/person_ending.lst
+END
+department.lst
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/department.lst
+END
+loc_generalkey.lst
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/loc_generalkey.lst
+END
+title.lst
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/title.lst
+END
+title_lower.lst
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/title_lower.lst
+END
+government_fr.lst
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/government_fr.lst
+END
+time_ampm.lst
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/time_ampm.lst
+END
+measure.lst
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/measure.lst
+END
+minutes.lst
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/minutes.lst
+END
+loc_key.lst
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/loc_key.lst
+END
+org_ending.lst
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/org_ending.lst
+END
+hour.lst
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/hour.lst
+END
+abbreviations.lst
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/abbreviations.lst
+END
+title_pol.lst
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/title_pol.lst
+END
+org_key_fr.lst
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/org_key_fr.lst
+END
+title_mil.lst
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/title_mil.lst
+END
+person_ambig.lst
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/person_ambig.lst
+END
+city.lst
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/city.lst
+END
+person_ambig_lower.lst
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/person_ambig_lower.lst
+END
+time_key.lst
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/time_key.lst
+END
+ordinal.lst
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/ordinal.lst
+END
+government.lst
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/government.lst
+END
+currency_unit.lst
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/currency_unit.lst
+END
+months.lst
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/months.lst
+END
+region.lst
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/region.lst
+END
+date_unit.lst
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/date_unit.lst
+END
+person_female.lst
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/person_female.lst
+END
+surname_prefix.lst
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/surname_prefix.lst
+END
+region_fr.lst
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/region_fr.lst
+END
+person_female_lower.lst
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/person_female_lower.lst
+END
+not_org.lst
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/not_org.lst
+END
+festival.lst
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/festival.lst
+END
+datespan.lst
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/datespan.lst
+END
+timezone.lst
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/timezone.lst
+END
+person_male_lower.lst
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/person_male_lower.lst
+END
+loc_prekey_lower.lst
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/loc_prekey_lower.lst
+END
+company.lst
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/company.lst
+END
+fr_first.lst
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/fr_first.lst
+END
+fr_city.lst
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/fr_city.lst
+END
+country_adj.lst
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/country_adj.lst
+END
+city_cap.lst
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/city_cap.lst
+END
+determiner.lst
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/determiner.lst
+END
+currency_prefix.lst
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/currency_prefix.lst
+END
+othorg_key.lst
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/othorg_key.lst
+END
+stop.lst
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/stop.lst
+END
+phone_prefix.lst
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/phone_prefix.lst
+END
+street.lst
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/street.lst
+END
+org_key.lst
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/org_key.lst
+END
+nonspec_date.lst
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/nonspec_date.lst
+END
+region_cap.lst
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/region_cap.lst
+END
+new_cdg.lst
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/new_cdg.lst
+END
+person_ambig2.lst
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/person_ambig2.lst
+END
+fr_firstname.lst
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/fr_firstname.lst
+END
+new_adj.lst
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/new_adj.lst
+END
+person_female_cap.lst
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/person_female_cap.lst
+END
+time_modifier.lst
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/time_modifier.lst
+END
+title_lowercase.lst
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/title_lowercase.lst
+END
+ident_prekey.lst
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/ident_prekey.lst
+END
+non_company.lst
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/non_company.lst
+END
+person_relig.lst
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/person_relig.lst
+END
+mountain.lst
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/mountain.lst
+END
+province_aa.lst
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/province_aa.lst
+END
+company_cap.lst
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/company_cap.lst
+END
+province_ab.lst
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/province_ab.lst
+END
+date_post.lst
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/date_post.lst
+END
+date_pre.lst
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/date_pre.lst
+END
+title_fr.lst
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/title_fr.lst
+END
+title_female.lst
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/title_female.lst
+END
+title_male.lst
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/title_male.lst
+END
+country.lst
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/country.lst
+END
+timespan.lst
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/timespan.lst
+END
+org_key_cap.lst
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/org_key_cap.lst
+END
+water.lst
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/water.lst
+END
+planet.lst
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/planet.lst
+END
+jobtitles.lst
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/jobtitles.lst
+END
+day.lst
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_French/gazetteer/day.lst
+END

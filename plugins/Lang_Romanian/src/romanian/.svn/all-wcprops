@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Romanian/src/romanian
+END
+RomanianTransducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Romanian/src/romanian/RomanianTransducer.java
+END
+RomanianTokeniser.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Romanian/src/romanian/RomanianTokeniser.java
+END
+RomanianIE.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Romanian/src/romanian/RomanianIE.java
+END
+RomanianGazetteer.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Romanian/src/romanian/RomanianGazetteer.java
+END

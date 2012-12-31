@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/config
+END
+owlim-max-nopartial.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/config/owlim-max-nopartial.ttl
+END
+rdf-schema.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/config/rdf-schema.rdf
+END
+owlim-max-partial.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/config/owlim-max-partial.ttl
+END
+native-rdfs.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/config/native-rdfs.ttl
+END
+native.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/config/native.ttl
+END
+owlim-rdfs-nopartial.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/config/owlim-rdfs-nopartial.ttl
+END
+owlim-rdfs-partial.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/config/owlim-rdfs-partial.ttl
+END
+owlim-empty.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/config/owlim-empty.ttl
+END
+native-rdfs-dt.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/config/native-rdfs-dt.ttl
+END
+owlim-max-nopartial-persist.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/config/owlim-max-nopartial-persist.ttl
+END
+owlim-horst-nopartial.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/config/owlim-horst-nopartial.ttl
+END
+owlim-max-partial-persist.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/config/owlim-max-partial-persist.ttl
+END
+owlim-horst-partial.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/config/owlim-horst-partial.ttl
+END
+owl.rdfs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/config/owl.rdfs
+END

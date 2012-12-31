@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/resources/jape/operators
+END
+kleene_tests.jape
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/resources/jape/operators/kleene_tests.jape
+END
+operator_tests.jape
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/resources/jape/operators/operator_tests.jape
+END
+meta_property_tests.jape
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/resources/jape/operators/meta_property_tests.jape
+END
+bad_operator_tests.jape
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/resources/jape/operators/bad_operator_tests.jape
+END
+range_tests.jape
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/resources/jape/operators/range_tests.jape
+END
+custom_predicates_tests.jape
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/resources/jape/operators/custom_predicates_tests.jape
+END

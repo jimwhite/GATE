@@ -1,0 +1,14 @@
+K 13
+svn:mergeinfo
+V 180
+/gate/branches/cl-experiment/src/gate/gui/annedit/OwnedAnnotationEditor.java:15466-15613
+/gate/branches/new-ontology-api/src/gate/gui/annedit/OwnedAnnotationEditor.java:10584-11598
+K 13
+svn:eol-style
+V 6
+native
+K 12
+svn:keywords
+V 2
+Id
+END

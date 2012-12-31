@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/morph
+END
+PatternParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/morph/PatternParser.java
+END
+Interpret.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/morph/Interpret.java
+END
+ParsingFunctions.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/morph/ParsingFunctions.java
+END
+Morph.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/morph/Morph.java
+END
+CharMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/morph/CharMap.java
+END
+Codes.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/morph/Codes.java
+END
+PatternPart.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/morph/PatternPart.java
+END
+RHS.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/morph/RHS.java
+END
+Variable.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/morph/Variable.java
+END
+Storage.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/morph/Storage.java
+END
+CharacterSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/morph/CharacterSet.java
+END
+TestMorph.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/morph/TestMorph.java
+END
+CharacterRange.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/morph/CharacterRange.java
+END
+MorphFunctions.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/morph/MorphFunctions.java
+END
+ReadFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/morph/ReadFile.java
+END
+StringSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/morph/StringSet.java
+END
+FSMState.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/morph/FSMState.java
+END

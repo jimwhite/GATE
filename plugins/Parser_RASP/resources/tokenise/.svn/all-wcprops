@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Parser_RASP/resources/tokenise
+END
+token.x86_64_linux
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Parser_RASP/resources/tokenise/token.x86_64_linux
+END
+token.ix86_darwin
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Parser_RASP/resources/tokenise/token.ix86_darwin
+END
+token.ix86_linux
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Parser_RASP/resources/tokenise/token.ix86_linux
+END
+token.ppc_darwin
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Parser_RASP/resources/tokenise/token.ppc_darwin
+END
+.executables
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Parser_RASP/resources/tokenise/.executables
+END
+token.sun4_sunos
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Parser_RASP/resources/tokenise/token.sun4_sunos
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Parser_RASP/resources/tokenise/README
+END

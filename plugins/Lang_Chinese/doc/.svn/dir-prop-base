@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 8
+javadoc
+
+K 13
+svn:mergeinfo
+V 39
+/gate/trunk/plugins/chinese/doc:3-10583
+END

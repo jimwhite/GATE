@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Learning/test/sentence-classification
+END
+engines-c45weka.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Learning/test/sentence-classification/engines-c45weka.xml
+END
+engines-svm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Learning/test/sentence-classification/engines-svm.xml
+END
+engines-knnweka.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Learning/test/sentence-classification/engines-knnweka.xml
+END
+engines-svm-quadratickernel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Learning/test/sentence-classification/engines-svm-quadratickernel.xml
+END

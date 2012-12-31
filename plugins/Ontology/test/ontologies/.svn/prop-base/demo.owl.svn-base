@@ -1,0 +1,7 @@
+K 13
+svn:mergeinfo
+V 258
+/gate/branches/new-ontology-api/plugins/Ontology/test/ontologies/demo.owl:10584-10909,11578-11598
+/gate/branches/plugin-Ontology-post-6.1/test/ontologies/demo.owl:13880-13964,13966-14232
+/gate/trunk/plugins/OWLIM3Ontology/test/ontologies/demo.owl:10584-10802
+END

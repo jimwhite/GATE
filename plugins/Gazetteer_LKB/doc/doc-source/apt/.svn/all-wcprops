@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Gazetteer_LKB/doc/doc-source/apt
+END
+samples.apt
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Gazetteer_LKB/doc/doc-source/apt/samples.apt
+END
+comparison.apt
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Gazetteer_LKB/doc/doc-source/apt/comparison.apt
+END
+gate_compatibility.apt
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Gazetteer_LKB/doc/doc-source/apt/gate_compatibility.apt
+END
+dictionary_lifecycle.apt
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Gazetteer_LKB/doc/doc-source/apt/dictionary_lifecycle.apt
+END
+usage.apt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Gazetteer_LKB/doc/doc-source/apt/usage.apt
+END
+index.apt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Gazetteer_LKB/doc/doc-source/apt/index.apt
+END
+semantic_encrichment_pr.apt
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Gazetteer_LKB/doc/doc-source/apt/semantic_encrichment_pr.apt
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/GENIA
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/GENIA/build.xml
+END
+creole.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/GENIA/creole.xml
+END
+genia.xgapp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/GENIA/genia.xgapp
+END

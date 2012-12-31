@@ -1,0 +1,275 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole
+END
+AbstractVisualResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/AbstractVisualResource.java
+END
+SerialController.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/SerialController.java
+END
+ResourceInstantiationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/ResourceInstantiationException.java
+END
+AnnotationSchema.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/AnnotationSchema.java
+END
+RealtimeCorpusController.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/RealtimeCorpusController.java
+END
+POSTagger.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/POSTagger.java
+END
+ProfilePRs.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/ProfilePRs.java
+END
+TestXSchema.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/TestXSchema.java
+END
+ParameterException.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/ParameterException.java
+END
+OntologyAwareTransducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/OntologyAwareTransducer.java
+END
+GazetteerListsCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/GazetteerListsCollector.java
+END
+ControllerAwarePR.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/ControllerAwarePR.java
+END
+AbstractProcessingResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/AbstractProcessingResource.java
+END
+VPChunker.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/VPChunker.java
+END
+AbstractController.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/AbstractController.java
+END
+CustomDuplication.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/CustomDuplication.java
+END
+AnnotationVisualResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/AnnotationVisualResource.java
+END
+PackagedController.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/PackagedController.java
+END
+ResourceData.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/ResourceData.java
+END
+TestCreoleAnnotationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/TestCreoleAnnotationHandler.java
+END
+Transducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/Transducer.java
+END
+FeatureSchema.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/FeatureSchema.java
+END
+ConditionalSerialController.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/ConditionalSerialController.java
+END
+TestPR.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/TestPR.java
+END
+ANNIETransducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/ANNIETransducer.java
+END
+AnalyserRunningStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/AnalyserRunningStrategy.java
+END
+ANNIEConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/ANNIEConstants.java
+END
+RunningStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/RunningStrategy.java
+END
+AbstractResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/AbstractResource.java
+END
+SerialAnalyserController.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/SerialAnalyserController.java
+END
+BootStrap.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/BootStrap.java
+END
+CreoleAnnotationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/CreoleAnnotationHandler.java
+END
+Parameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/Parameter.java
+END
+AbstractLanguageResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/AbstractLanguageResource.java
+END
+ParameterList.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/ParameterList.java
+END
+TestControllers.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/TestControllers.java
+END
+ExecutionInterruptedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/ExecutionInterruptedException.java
+END
+CreoleXmlHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/CreoleXmlHandler.java
+END
+TestCreole.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/TestCreole.java
+END
+ConditionalController.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/ConditionalController.java
+END
+AbstractLanguageAnalyser.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/AbstractLanguageAnalyser.java
+END
+ExecutionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/ExecutionException.java
+END
+ConditionalSerialAnalyserController.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/ConditionalSerialAnalyserController.java
+END
+CreoleRegisterImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/CreoleRegisterImpl.java
+END
+TestSplitterTagger.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/TestSplitterTagger.java
+END

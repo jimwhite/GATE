@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Parser_Minipar
+END
+minipar.linux
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Parser_Minipar/minipar.linux
+END
+minipar-windows.exe
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Parser_Minipar/minipar-windows.exe
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Parser_Minipar/build.xml
+END
+.executables
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Parser_Minipar/.executables
+END
+creole.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Parser_Minipar/creole.xml
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Cebuano/resources/tokeniser
+END
+join.jape
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Cebuano/resources/tokeniser/join.jape
+END
+DefaultTokeniser.rules
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Cebuano/resources/tokeniser/DefaultTokeniser.rules
+END
+ceb-multi.lst
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Cebuano/resources/tokeniser/ceb-multi.lst
+END
+postprocess.jape
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Cebuano/resources/tokeniser/postprocess.jape
+END
+lists.def
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Cebuano/resources/tokeniser/lists.def
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/LingPipe/src/gate/lingpipe
+END
+POSTaggerPR.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/LingPipe/src/gate/lingpipe/POSTaggerPR.java
+END
+POSApplicationMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/LingPipe/src/gate/lingpipe/POSApplicationMode.java
+END
+SentenceSplitterPR.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/LingPipe/src/gate/lingpipe/SentenceSplitterPR.java
+END
+TokenizerPR.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/LingPipe/src/gate/lingpipe/TokenizerPR.java
+END
+LanguageIdentifierPR.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/LingPipe/src/gate/lingpipe/LanguageIdentifierPR.java
+END
+NamedEntityRecognizerPR.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/LingPipe/src/gate/lingpipe/NamedEntityRecognizerPR.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Cebuano/src/cebuano
+END
+CebuanoGazetteer.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Cebuano/src/cebuano/CebuanoGazetteer.java
+END
+CebuanoGazetteerTokeniser.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Cebuano/src/cebuano/CebuanoGazetteerTokeniser.java
+END
+CebuanoIE.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Cebuano/src/cebuano/CebuanoIE.java
+END
+CebuanoTransducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Cebuano/src/cebuano/CebuanoTransducer.java
+END
+CebuanoTransducerPost.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Cebuano/src/cebuano/CebuanoTransducerPost.java
+END
+CebuanoTokeniser.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Cebuano/src/cebuano/CebuanoTokeniser.java
+END

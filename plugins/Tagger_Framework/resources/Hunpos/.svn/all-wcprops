@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_Framework/resources/Hunpos
+END
+hunpostagger-en-no_tokenization.gapp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_Framework/resources/Hunpos/hunpostagger-en-no_tokenization.gapp
+END
+runhunpos
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_Framework/resources/Hunpos/runhunpos
+END
+hunpostagger-hu-no_tokenization.gapp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_Framework/resources/Hunpos/hunpostagger-hu-no_tokenization.gapp
+END

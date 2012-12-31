@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Groovy/lib
+END
+ivy-2.2.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Groovy/lib/ivy-2.2.0.jar
+END
+groovy-all-1.7.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Groovy/lib/groovy-all-1.7.6.jar
+END

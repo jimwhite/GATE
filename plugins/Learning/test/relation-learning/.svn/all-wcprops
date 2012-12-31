@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Learning/test/relation-learning
+END
+engines-svm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Learning/test/relation-learning/engines-svm.xml
+END
+engines-svm-ngram.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Learning/test/relation-learning/engines-svm-ngram.xml
+END

@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/misc/jape/grammars/CombinedGrammars
+END
+saliha-persontitle.jape
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/misc/jape/grammars/CombinedGrammars/saliha-persontitle.jape
+END
+brian-default.jape
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/misc/jape/grammars/CombinedGrammars/brian-default.jape
+END
+brian-money2.jape
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/misc/jape/grammars/CombinedGrammars/brian-money2.jape
+END
+main.jape
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/misc/jape/grammars/CombinedGrammars/main.jape
+END
+brian-money1.jape
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/misc/jape/grammars/CombinedGrammars/brian-money1.jape
+END
+saliha-personfinal.jape
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/misc/jape/grammars/CombinedGrammars/saliha-personfinal.jape
+END
+brian-loc1.jape
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/misc/jape/grammars/CombinedGrammars/brian-loc1.jape
+END
+saliha-sections.jape
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/misc/jape/grammars/CombinedGrammars/saliha-sections.jape
+END
+brian-amount1.jape
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/misc/jape/grammars/CombinedGrammars/brian-amount1.jape
+END
+brian-transport1.jape
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/misc/jape/grammars/CombinedGrammars/brian-transport1.jape
+END
+main.ser
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/misc/jape/grammars/CombinedGrammars/main.ser
+END
+testloc.jape
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/misc/jape/grammars/CombinedGrammars/testloc.jape
+END
+saliha-personinitials.jape
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/misc/jape/grammars/CombinedGrammars/saliha-personinitials.jape
+END
+brian-definite-orgs2.jape
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/misc/jape/grammars/CombinedGrammars/brian-definite-orgs2.jape
+END
+frozen.jar
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/misc/jape/grammars/CombinedGrammars/frozen.jar
+END
+brian-definite-orgs1.jape
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/misc/jape/grammars/CombinedGrammars/brian-definite-orgs1.jape
+END
+brian-definite-person.jape
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/misc/jape/grammars/CombinedGrammars/brian-definite-person.jape
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/misc/jape/grammars/CombinedGrammars/README.txt
+END
+brian-loc-region1.jape
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/misc/jape/grammars/CombinedGrammars/brian-loc-region1.jape
+END
+frozen.ser
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/misc/jape/grammars/CombinedGrammars/frozen.ser
+END
+saliha-personending.jape
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/misc/jape/grammars/CombinedGrammars/saliha-personending.jape
+END
+brian-loc-final.jape
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/misc/jape/grammars/CombinedGrammars/brian-loc-final.jape
+END
+files.txt
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/misc/jape/grammars/CombinedGrammars/files.txt
+END
+brian-orgs-final.jape
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/misc/jape/grammars/CombinedGrammars/brian-orgs-final.jape
+END
+saliha-person.jape
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/misc/jape/grammars/CombinedGrammars/saliha-person.jape
+END
+brian-soc-loc1.jape
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/misc/jape/grammars/CombinedGrammars/brian-soc-loc1.jape
+END
+brian-drugperson.jape
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/misc/jape/grammars/CombinedGrammars/brian-drugperson.jape
+END
+brian-date1.jape
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/misc/jape/grammars/CombinedGrammars/brian-date1.jape
+END
+brian-orgs1.jape
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/misc/jape/grammars/CombinedGrammars/brian-orgs1.jape
+END

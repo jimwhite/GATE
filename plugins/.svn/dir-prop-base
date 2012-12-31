@@ -1,0 +1,13 @@
+K 10
+svn:ignore
+V 8
+JapePDA
+
+K 13
+svn:mergeinfo
+V 173
+/gate/branches/new-ontology-api/plugins:10584-11598
+/gate/branches/release-7.0/plugins:15335-15398
+/gate/tags/release-7.0/plugins:15399-15407
+/gate/trunk/plugins:3-390,16370
+END

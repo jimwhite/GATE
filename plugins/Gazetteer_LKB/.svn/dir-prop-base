@@ -1,0 +1,20 @@
+K 10
+svn:ignore
+V 143
+classes
+doc
+lkb-gazetteer.jar
+lkb-gazetteer-1.0-SNAPSHOT.jar
+nbproject
+.classpath
+.project
+Gazetteer_LKB.jar
+target
+dictionary
+.creole.xml.swp
+
+K 13
+svn:mergeinfo
+V 41
+/gate/trunk/plugins/lkb_gazetteer:3-10583
+END

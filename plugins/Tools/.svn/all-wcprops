@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tools
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tools/build.xml
+END
+creole.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tools/creole.xml
+END

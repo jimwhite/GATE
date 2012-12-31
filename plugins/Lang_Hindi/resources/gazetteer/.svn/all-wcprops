@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Hindi/resources/gazetteer
+END
+saint.lst
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Hindi/resources/gazetteer/saint.lst
+END
+india-today-LPNETranslist_CMU_V2_1_Cleaner.htm
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Hindi/resources/gazetteer/india-today-LPNETranslist_CMU_V2_1_Cleaner.htm
+END
+cmu-trained-lists.def
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Hindi/resources/gazetteer/cmu-trained-lists.def
+END
+indian_states.lst
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Hindi/resources/gazetteer/indian_states.lst
+END
+city_isi.lst
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Hindi/resources/gazetteer/city_isi.lst
+END
+stop_words.lst
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Hindi/resources/gazetteer/stop_words.lst
+END
+seasons.lst
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Hindi/resources/gazetteer/seasons.lst
+END
+ordinal.lst
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Hindi/resources/gazetteer/ordinal.lst
+END
+government.lst
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Hindi/resources/gazetteer/government.lst
+END
+time_premod.lst
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Hindi/resources/gazetteer/time_premod.lst
+END
+months.lst
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Hindi/resources/gazetteer/months.lst
+END
+date_unit.lst
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Hindi/resources/gazetteer/date_unit.lst
+END
+location.lst
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Hindi/resources/gazetteer/location.lst
+END
+time_unit.lst
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Hindi/resources/gazetteer/time_unit.lst
+END
+ne.lst
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Hindi/resources/gazetteer/ne.lst
+END
+hindi_city.lst
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Hindi/resources/gazetteer/hindi_city.lst
+END
+indian-states.lst
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Hindi/resources/gazetteer/indian-states.lst
+END
+festival.lst
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Hindi/resources/gazetteer/festival.lst
+END
+jobtitle.lst
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Hindi/resources/gazetteer/jobtitle.lst
+END
+company.lst
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Hindi/resources/gazetteer/company.lst
+END
+country_adj.lst
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Hindi/resources/gazetteer/country_adj.lst
+END
+isi-lists.def
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Hindi/resources/gazetteer/isi-lists.def
+END
+states.lst
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Hindi/resources/gazetteer/states.lst
+END
+states_isi.lst
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Hindi/resources/gazetteer/states_isi.lst
+END
+date_rel.lst
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Hindi/resources/gazetteer/date_rel.lst
+END
+time_modifier.lst
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Hindi/resources/gazetteer/time_modifier.lst
+END
+numbers.lst
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Hindi/resources/gazetteer/numbers.lst
+END
+lists.def
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Hindi/resources/gazetteer/lists.def
+END
+person_ending.lst
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Hindi/resources/gazetteer/person_ending.lst
+END
+title_female.lst
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Hindi/resources/gazetteer/title_female.lst
+END
+title_male.lst
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Hindi/resources/gazetteer/title_male.lst
+END
+person.lst
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Hindi/resources/gazetteer/person.lst
+END
+loc_generalkey.lst
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Hindi/resources/gazetteer/loc_generalkey.lst
+END
+country.lst
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Hindi/resources/gazetteer/country.lst
+END
+days.lst
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Hindi/resources/gazetteer/days.lst
+END
+organisation.lst
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Hindi/resources/gazetteer/organisation.lst
+END
+hindi_stop_words.txt
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Hindi/resources/gazetteer/hindi_stop_words.txt
+END
+loc_key.lst
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Hindi/resources/gazetteer/loc_key.lst
+END

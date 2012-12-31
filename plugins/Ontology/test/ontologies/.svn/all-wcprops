@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/test/ontologies
+END
+protons.owl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/test/ontologies/protons.owl
+END
+food.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/test/ontologies/food.rdf
+END
+protont.owl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/test/ontologies/protont.owl
+END
+pizza.owl.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/test/ontologies/pizza.owl.rdf
+END
+pimo_data.rdfs.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/test/ontologies/pimo_data.rdfs.rdf
+END
+protonu.owl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/test/ontologies/protonu.owl
+END
+protonust.owl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/test/ontologies/protonust.owl
+END
+kimlo.owl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/test/ontologies/kimlo.owl
+END
+simple_rdf.turtle.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/test/ontologies/simple_rdf.turtle.rdf
+END
+hierarchy1.turtle
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/test/ontologies/hierarchy1.turtle
+END
+winemappings.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/test/ontologies/winemappings.txt
+END
+mappingsfile1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/test/ontologies/mappingsfile1.txt
+END
+demo.owl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/test/ontologies/demo.owl
+END
+simple_owl.turtle.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/test/ontologies/simple_owl.turtle.rdf
+END
+test1.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/test/ontologies/test1.ttl
+END
+wine.rdfxml.owl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/test/ontologies/wine.rdfxml.owl
+END
+test2.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/test/ontologies/test2.ttl
+END

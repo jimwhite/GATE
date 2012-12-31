@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_MetaMap
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_MetaMap/README.txt
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_MetaMap/build.properties
+END
+changelog.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_MetaMap/changelog.txt
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_MetaMap/build.xml
+END
+creole.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_MetaMap/creole.xml
+END

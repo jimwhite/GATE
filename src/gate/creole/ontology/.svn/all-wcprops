@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/ontology
+END
+OBNodeID.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/ontology/OBNodeID.java
+END
+Ontology.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/ontology/Ontology.java
+END
+OntologyTupleQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/ontology/OntologyTupleQuery.java
+END
+URI.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/ontology/URI.java
+END
+ONodeID.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/ontology/ONodeID.java
+END
+SymmetricProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/ontology/SymmetricProperty.java
+END
+SomeValuesFromRestriction.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/ontology/SomeValuesFromRestriction.java
+END
+AnonymousClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/ontology/AnonymousClass.java
+END
+OClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/ontology/OClass.java
+END
+OntologyTripleStoreListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/ontology/OntologyTripleStoreListener.java
+END
+AnnotationProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/ontology/AnnotationProperty.java
+END
+OInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/ontology/OInstance.java
+END
+MaxCardinalityRestriction.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/ontology/MaxCardinalityRestriction.java
+END
+OConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/ontology/OConstants.java
+END
+CardinalityRestriction.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/ontology/CardinalityRestriction.java
+END
+Triple.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/ontology/Triple.java
+END
+OURI.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/ontology/OURI.java
+END
+OntologyUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/ontology/OntologyUtilities.java
+END
+TransitiveProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/ontology/TransitiveProperty.java
+END
+LiteralOrONodeID.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/ontology/LiteralOrONodeID.java
+END
+InvalidURIException.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/ontology/InvalidURIException.java
+END
+InvalidValueException.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/ontology/InvalidValueException.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/ontology/package-info.java
+END
+GateOntologyException.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/ontology/GateOntologyException.java
+END
+OntologyTripleStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/ontology/OntologyTripleStore.java
+END
+Utils.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/ontology/Utils.java
+END
+MinCardinalityRestriction.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/ontology/MinCardinalityRestriction.java
+END
+OntologyBooleanQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/ontology/OntologyBooleanQuery.java
+END
+Literal.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/ontology/Literal.java
+END
+Restriction.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/ontology/Restriction.java
+END
+RDFProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/ontology/RDFProperty.java
+END
+DataType.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/ontology/DataType.java
+END
+OUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/ontology/OUtils.java
+END
+OValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/ontology/OValue.java
+END
+AllValuesFromRestriction.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/ontology/AllValuesFromRestriction.java
+END
+OntologyModificationListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/ontology/OntologyModificationListener.java
+END
+OResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/ontology/OResource.java
+END
+DatatypeProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/ontology/DatatypeProperty.java
+END
+HasValueRestriction.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/ontology/HasValueRestriction.java
+END
+ObjectProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/ontology/ObjectProperty.java
+END

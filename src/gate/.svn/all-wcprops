@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate
+END
+VisualResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/VisualResource.java
+END
+Gate.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/Gate.java
+END
+ProcessingResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/ProcessingResource.java
+END
+SimpleAnnotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/SimpleAnnotation.java
+END
+DocumentContent.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/DocumentContent.java
+END
+TestGate.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/TestGate.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/package.html
+END
+Controller.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/Controller.java
+END
+SimpleCorpus.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/SimpleCorpus.java
+END
+DataStoreRegister.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/DataStoreRegister.java
+END
+Main.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/Main.java
+END
+SimpleFeatureMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/SimpleFeatureMap.java
+END
+AnnotationSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/AnnotationSet.java
+END
+Utils.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/Utils.java
+END
+Annotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/Annotation.java
+END
+TextualDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/TextualDocument.java
+END
+Resource.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/Resource.java
+END
+SimpleDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/SimpleDocument.java
+END
+Factory.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/Factory.java
+END
+Executable.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/Executable.java
+END
+Corpus.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/Corpus.java
+END
+LanguageResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/LanguageResource.java
+END
+FeatureMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/FeatureMap.java
+END
+GateConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/GateConstants.java
+END
+CorpusController.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/CorpusController.java
+END
+Node.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/Node.java
+END
+SimpleAnnotationSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/SimpleAnnotationSet.java
+END
+AnnotationGraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/AnnotationGraph.java
+END
+Document.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/Document.java
+END
+LanguageAnalyser.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/LanguageAnalyser.java
+END
+DataStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/DataStore.java
+END
+CreoleRegister.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/CreoleRegister.java
+END
+DocumentFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/DocumentFormat.java
+END

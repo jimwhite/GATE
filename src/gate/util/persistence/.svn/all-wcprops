@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/util/persistence
+END
+DSPersistence.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/util/persistence/DSPersistence.java
+END
+SerialAnalyserControllerPersistence.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/util/persistence/SerialAnalyserControllerPersistence.java
+END
+PersistenceManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/util/persistence/PersistenceManager.java
+END
+AnalyserRunningStrategyPersistence.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/util/persistence/AnalyserRunningStrategyPersistence.java
+END
+ConditionalSerialAnalyserControllerPersistence.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/util/persistence/ConditionalSerialAnalyserControllerPersistence.java
+END
+LanguageAnalyserPersistence.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/util/persistence/LanguageAnalyserPersistence.java
+END
+GateApplication.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/util/persistence/GateApplication.java
+END
+UpdateSavedApp.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/util/persistence/UpdateSavedApp.java
+END
+MapPersistence.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/util/persistence/MapPersistence.java
+END
+ControllerPersistence.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/util/persistence/ControllerPersistence.java
+END
+CollectionPersistence.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/util/persistence/CollectionPersistence.java
+END
+Persistence.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/util/persistence/Persistence.java
+END
+ConditionalControllerPersistence.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/util/persistence/ConditionalControllerPersistence.java
+END
+PRPersistence.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/util/persistence/PRPersistence.java
+END
+UnconditionalRunningStrategyPersistence.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/util/persistence/UnconditionalRunningStrategyPersistence.java
+END
+LRPersistence.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/util/persistence/LRPersistence.java
+END
+CorpusPersistence.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/util/persistence/CorpusPersistence.java
+END
+ResourcePersistence.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/util/persistence/ResourcePersistence.java
+END

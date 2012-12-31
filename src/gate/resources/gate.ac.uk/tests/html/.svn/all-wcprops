@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/resources/gate.ac.uk/tests/html
+END
+test1.htm
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/resources/gate.ac.uk/tests/html/test1.htm
+END
+test2.htm
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/resources/gate.ac.uk/tests/html/test2.htm
+END

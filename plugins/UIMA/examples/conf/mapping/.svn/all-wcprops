@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/UIMA/examples/conf/mapping
+END
+TokenPrinterGateMapping.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/UIMA/examples/conf/mapping/TokenPrinterGateMapping.xml
+END
+TokenHandlerGateMapping.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/UIMA/examples/conf/mapping/TokenHandlerGateMapping.xml
+END
+RemoveEvenGateMapping.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/UIMA/examples/conf/mapping/RemoveEvenGateMapping.xml
+END

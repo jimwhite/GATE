@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Alignment/src/gate/alignment/gui
+END
+AlignmentEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Alignment/src/gate/alignment/gui/AlignmentEditor.java
+END
+AlignmentTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Alignment/src/gate/alignment/gui/AlignmentTask.java
+END
+AlignmentView.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Alignment/src/gate/alignment/gui/AlignmentView.java
+END
+DataPublisherAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Alignment/src/gate/alignment/gui/DataPublisherAction.java
+END
+AlignmentFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Alignment/src/gate/alignment/gui/AlignmentFactory.java
+END
+FinishedAlignmentAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Alignment/src/gate/alignment/gui/FinishedAlignmentAction.java
+END
+DefaultDataModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Alignment/src/gate/alignment/gui/DefaultDataModel.java
+END
+Pair.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Alignment/src/gate/alignment/gui/Pair.java
+END
+AlignmentAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Alignment/src/gate/alignment/gui/AlignmentAction.java
+END
+IteratingMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Alignment/src/gate/alignment/gui/IteratingMethod.java
+END
+IteratingMethodException.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Alignment/src/gate/alignment/gui/IteratingMethodException.java
+END
+DefaultIteratingMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Alignment/src/gate/alignment/gui/DefaultIteratingMethod.java
+END
+PUAPair.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Alignment/src/gate/alignment/gui/PUAPair.java
+END
+PreDisplayAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Alignment/src/gate/alignment/gui/PreDisplayAction.java
+END
+AlignmentActionsManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Alignment/src/gate/alignment/gui/AlignmentActionsManager.java
+END

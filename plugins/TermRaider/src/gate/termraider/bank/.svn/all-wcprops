@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/TermRaider/src/gate/termraider/bank
+END
+HyponymyTermbank.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/TermRaider/src/gate/termraider/bank/HyponymyTermbank.java
+END
+AbstractTermbank.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/TermRaider/src/gate/termraider/bank/AbstractTermbank.java
+END
+PMIBank.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/TermRaider/src/gate/termraider/bank/PMIBank.java
+END
+AbstractPairbank.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/TermRaider/src/gate/termraider/bank/AbstractPairbank.java
+END
+AnnotationTermbank.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/TermRaider/src/gate/termraider/bank/AnnotationTermbank.java
+END
+TfIdfTermbank.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/TermRaider/src/gate/termraider/bank/TfIdfTermbank.java
+END

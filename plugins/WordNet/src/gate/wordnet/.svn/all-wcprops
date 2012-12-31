@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/WordNet/src/gate/wordnet
+END
+LexicalRelationImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/WordNet/src/gate/wordnet/LexicalRelationImpl.java
+END
+VerbImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/WordNet/src/gate/wordnet/VerbImpl.java
+END
+VerbFrameImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/WordNet/src/gate/wordnet/VerbFrameImpl.java
+END
+RelationImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/WordNet/src/gate/wordnet/RelationImpl.java
+END
+SynsetImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/WordNet/src/gate/wordnet/SynsetImpl.java
+END
+WordImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/WordNet/src/gate/wordnet/WordImpl.java
+END
+AdjectiveImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/WordNet/src/gate/wordnet/AdjectiveImpl.java
+END
+JWNLWordNetImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/WordNet/src/gate/wordnet/JWNLWordNetImpl.java
+END
+WNHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/WordNet/src/gate/wordnet/WNHelper.java
+END
+IndexFileWordNetImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/WordNet/src/gate/wordnet/IndexFileWordNetImpl.java
+END
+WordSenseImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/WordNet/src/gate/wordnet/WordSenseImpl.java
+END
+SemanticRelationImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/WordNet/src/gate/wordnet/SemanticRelationImpl.java
+END

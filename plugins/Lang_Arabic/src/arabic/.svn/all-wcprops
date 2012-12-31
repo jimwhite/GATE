@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Arabic/src/arabic
+END
+ArabicInferedGazetteer.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Arabic/src/arabic/ArabicInferedGazetteer.java
+END
+ArabicGazCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Arabic/src/arabic/ArabicGazCollector.java
+END
+ArabicIE.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Arabic/src/arabic/ArabicIE.java
+END
+ArabicOrthoMatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Arabic/src/arabic/ArabicOrthoMatcher.java
+END
+ArabicTokeniser.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Arabic/src/arabic/ArabicTokeniser.java
+END
+ArabicTransducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Arabic/src/arabic/ArabicTransducer.java
+END
+ArabicGazetteer.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Arabic/src/arabic/ArabicGazetteer.java
+END

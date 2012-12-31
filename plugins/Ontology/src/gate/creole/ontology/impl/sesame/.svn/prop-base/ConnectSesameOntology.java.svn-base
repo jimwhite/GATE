@@ -1,0 +1,17 @@
+K 13
+svn:mergeinfo
+V 584
+/gate/branches/new-ontology-api/plugins/Ontology/src/gate/creole/ontology/impl/sesame/ConnectSesameOntology.java:10584-10922,11578-11598
+/gate/branches/plugin-Ontology-post-6.1/src/gate/creole/ontology/impl/sesame/ConnectSesameOntology.java:13880-13964,13966-14232
+/gate/trunk/plugins/OWLIM3Ontology/src/gate/creole/ontology/impl/sesame/ConnectSesameOntology.java:10584-10802
+/gate/trunk/plugins/OWLIM3Ontology/src/gate/creole/ontology/impl/sesame/SesameRepositoryLR.java:10584-10802
+/gate/trunk/plugins/Ontology/src/gate/creole/ontology/impl/sesame/ConnectSesameOntology.java:3-10583
+K 13
+svn:eol-style
+V 6
+native
+K 12
+svn:keywords
+V 2
+Id
+END

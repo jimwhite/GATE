@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/JAPE_Plus/test
+END
+test-contains.jape
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/JAPE_Plus/test/test-contains.jape
+END
+test-contains.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/JAPE_Plus/test/test-contains.xml
+END
+test-not-contains.jape
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/JAPE_Plus/test/test-not-contains.jape
+END
+testdoc.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/JAPE_Plus/test/testdoc.txt
+END
+zero-length-ann.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/JAPE_Plus/test/zero-length-ann.xml
+END
+testabc.jape
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/JAPE_Plus/test/testabc.jape
+END
+test_controllerblocks.jape
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/JAPE_Plus/test/test_controllerblocks.jape
+END
+testonto.jape
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/JAPE_Plus/test/testonto.jape
+END
+test_actioncontext.jape
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/JAPE_Plus/test/test_actioncontext.jape
+END
+test-within.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/JAPE_Plus/test/test-within.xml
+END
+test-within.jape
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/JAPE_Plus/test/test-within.jape
+END
+testonto.session
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/JAPE_Plus/test/testonto.session
+END
+test_actioncontext.session
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/JAPE_Plus/test/test_actioncontext.session
+END
+test_controllerblocks.session
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/JAPE_Plus/test/test_controllerblocks.session
+END
+testabc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/JAPE_Plus/test/testabc.xml
+END
+test_controllerblocks.gapp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/JAPE_Plus/test/test_controllerblocks.gapp
+END
+test-not-within.jape
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/JAPE_Plus/test/test-not-within.jape
+END
+zero-length-ann.jape
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/JAPE_Plus/test/zero-length-ann.jape
+END
+testonto.rdf.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/JAPE_Plus/test/testonto.rdf.xml
+END
+testonto.gapp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/JAPE_Plus/test/testonto.gapp
+END
+test_actioncontext.gapp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/JAPE_Plus/test/test_actioncontext.gapp
+END
+testonto.doc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/JAPE_Plus/test/testonto.doc.xml
+END

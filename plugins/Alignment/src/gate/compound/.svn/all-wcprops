@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Alignment/src/gate/compound
+END
+CompoundDocumentListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Alignment/src/gate/compound/CompoundDocumentListener.java
+END
+CompoundDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Alignment/src/gate/compound/CompoundDocument.java
+END
+CompoundDocumentEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Alignment/src/gate/compound/CompoundDocumentEvent.java
+END

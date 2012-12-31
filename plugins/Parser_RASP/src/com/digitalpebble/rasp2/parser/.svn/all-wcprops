@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Parser_RASP/src/com/digitalpebble/rasp2/parser
+END
+ParserAnnotator.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Parser_RASP/src/com/digitalpebble/rasp2/parser/ParserAnnotator.java
+END
+ParserXMLoutputAnalyser.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Parser_RASP/src/com/digitalpebble/rasp2/parser/ParserXMLoutputAnalyser.java
+END

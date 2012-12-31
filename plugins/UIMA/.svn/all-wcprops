@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/UIMA
+END
+LICENCE
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/UIMA/LICENCE
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/UIMA/build.xml
+END
+creole.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/UIMA/creole.xml
+END

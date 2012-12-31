@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Parser_RASP/src/com/digitalpebble/rasp2/tagger
+END
+PosTagger.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Parser_RASP/src/com/digitalpebble/rasp2/tagger/PosTagger.java
+END
+C2Transducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Parser_RASP/src/com/digitalpebble/rasp2/tagger/C2Transducer.java
+END

@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Chinese/resources/inferred-gazetteer
+END
+Org.lst
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Chinese/resources/inferred-gazetteer/Org.lst
+END
+Percent.lst
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Chinese/resources/inferred-gazetteer/Percent.lst
+END
+Fac.lst
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Chinese/resources/inferred-gazetteer/Fac.lst
+END
+AdjPerson_lists.def
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Chinese/resources/inferred-gazetteer/AdjPerson_lists.def
+END
+lists.def
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Chinese/resources/inferred-gazetteer/lists.def
+END
+Date.lst
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Chinese/resources/inferred-gazetteer/Date.lst
+END
+NounPerson.lst
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Chinese/resources/inferred-gazetteer/NounPerson.lst
+END
+Organization.lst
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Chinese/resources/inferred-gazetteer/Organization.lst
+END
+VerbPerson.lst
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Chinese/resources/inferred-gazetteer/VerbPerson.lst
+END
+PersonVerb.lst
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Chinese/resources/inferred-gazetteer/PersonVerb.lst
+END
+Person.lst
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Chinese/resources/inferred-gazetteer/Person.lst
+END
+Location.lst
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Chinese/resources/inferred-gazetteer/Location.lst
+END
+PersonVerbs_list.def
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Chinese/resources/inferred-gazetteer/PersonVerbs_list.def
+END
+collect_nouns.jape
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Chinese/resources/inferred-gazetteer/collect_nouns.jape
+END
+collected_lists.def
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Chinese/resources/inferred-gazetteer/collected_lists.def
+END
+collect_adjs.jape
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Chinese/resources/inferred-gazetteer/collect_adjs.jape
+END
+AdjPerson.lst
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Chinese/resources/inferred-gazetteer/AdjPerson.lst
+END
+collect_verbs.jape
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Chinese/resources/inferred-gazetteer/collect_verbs.jape
+END
+GPE.lst
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Chinese/resources/inferred-gazetteer/GPE.lst
+END
+NounPerson_lists.def
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Chinese/resources/inferred-gazetteer/NounPerson_lists.def
+END
+Per.lst
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Chinese/resources/inferred-gazetteer/Per.lst
+END
+Money.lst
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Chinese/resources/inferred-gazetteer/Money.lst
+END
+Loc.lst
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Chinese/resources/inferred-gazetteer/Loc.lst
+END

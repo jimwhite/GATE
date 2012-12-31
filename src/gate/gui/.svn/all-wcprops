@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui
+END
+HelpFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/HelpFrame.java
+END
+FeaturesSchemaEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/FeaturesSchemaEditor.java
+END
+BooleanRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/BooleanRenderer.java
+END
+Handle.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/Handle.java
+END
+AnnotationDiffGUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/AnnotationDiffGUI.java
+END
+CorpusFillerComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/CorpusFillerComponent.java
+END
+AccessRightsDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/AccessRightsDialog.java
+END
+ActionsPublisher.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/ActionsPublisher.java
+END
+OkCancelDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/OkCancelDialog.java
+END
+CreateIndexDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/CreateIndexDialog.java
+END
+LuceneDataStoreSearchGUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/LuceneDataStoreSearchGUI.java
+END
+SerialControllerEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/SerialControllerEditor.java
+END
+SearchPRViewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/SearchPRViewer.java
+END
+FeatureMapEditorDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/FeatureMapEditorDialog.java
+END
+ResizableVisualResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/ResizableVisualResource.java
+END
+ParameterDisjunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/ParameterDisjunction.java
+END
+TextAttributesChooser.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/TextAttributesChooser.java
+END
+CorpusQualityAssurance.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/CorpusQualityAssurance.java
+END
+NameBearerHandle.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/NameBearerHandle.java
+END
+PRViewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/PRViewer.java
+END
+ResourceRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/ResourceRenderer.java
+END
+LogArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/LogArea.java
+END
+AppearanceDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/AppearanceDialog.java
+END
+TabHighlighter.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/TabHighlighter.java
+END
+Splash.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/Splash.java
+END
+OptionsDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/OptionsDialog.java
+END
+ResourceParametersEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/ResourceParametersEditor.java
+END
+CreateIndexGUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/CreateIndexGUI.java
+END
+SingleConcatenatedFileInputDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/SingleConcatenatedFileInputDialog.java
+END
+ControllerMetadataViewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/ControllerMetadataViewer.java
+END
+GazetteerEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/GazetteerEditor.java
+END
+CollectionSelectionDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/CollectionSelectionDialog.java
+END
+NewResourceDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/NewResourceDialog.java
+END
+BootStrapDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/BootStrapDialog.java
+END
+SerialDatastoreViewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/SerialDatastoreViewer.java
+END
+CorpusEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/CorpusEditor.java
+END
+MainFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/MainFrame.java
+END
+TabBlinker.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/TabBlinker.java
+END
+ListEditorDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/ListEditorDialog.java
+END
+SyntaxTreeViewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/SyntaxTreeViewer.java
+END
+STreeNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/STreeNode.java
+END

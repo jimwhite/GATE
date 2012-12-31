@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Learning/src/gate/learning/learners/svm
+END
+svm.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Learning/src/gate/learning/learners/svm/svm.java
+END
+svm_problem.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Learning/src/gate/learning/learners/svm/svm_problem.java
+END
+svm_node.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Learning/src/gate/learning/learners/svm/svm_node.java
+END
+svm_model.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Learning/src/gate/learning/learners/svm/svm_model.java
+END
+svm_parameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Learning/src/gate/learning/learners/svm/svm_parameter.java
+END

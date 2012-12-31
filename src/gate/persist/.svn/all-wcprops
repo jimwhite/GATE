@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/persist
+END
+PersistenceException.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/persist/PersistenceException.java
+END
+SerialDataStore.jbx
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/persist/SerialDataStore.jbx
+END
+GateAwareObjectInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/persist/GateAwareObjectInputStream.java
+END
+LuceneDataStoreImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/persist/LuceneDataStoreImpl.java
+END
+SerialDataStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/persist/SerialDataStore.java
+END
+TestPersist.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/persist/TestPersist.java
+END

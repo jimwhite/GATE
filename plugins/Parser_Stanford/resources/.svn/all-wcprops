@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Parser_Stanford/resources
+END
+englishPCFG.ser.gz
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Parser_Stanford/resources/englishPCFG.ser.gz
+END
+english-tag-map.txt
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Parser_Stanford/resources/english-tag-map.txt
+END
+empty.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Parser_Stanford/resources/empty.txt
+END

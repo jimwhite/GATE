@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Learning/src/gate/learning/learners/weka
+END
+NaiveBayesC.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Learning/src/gate/learning/learners/weka/NaiveBayesC.java
+END
+WekaLearner.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Learning/src/gate/learning/learners/weka/WekaLearner.java
+END
+KNNIBK.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Learning/src/gate/learning/learners/weka/KNNIBK.java
+END
+C45.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Learning/src/gate/learning/learners/weka/C45.java
+END
+WekaLearning.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Learning/src/gate/learning/learners/weka/WekaLearning.java
+END

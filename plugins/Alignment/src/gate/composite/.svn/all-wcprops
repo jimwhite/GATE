@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Alignment/src/gate/composite
+END
+OffsetDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Alignment/src/gate/composite/OffsetDetails.java
+END
+CombiningMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Alignment/src/gate/composite/CombiningMethod.java
+END
+CompositeDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Alignment/src/gate/composite/CompositeDocument.java
+END
+CombiningMethodException.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Alignment/src/gate/composite/CombiningMethodException.java
+END

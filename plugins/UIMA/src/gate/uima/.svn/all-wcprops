@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/UIMA/src/gate/uima
+END
+AnalysisEnginePR.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/UIMA/src/gate/uima/AnalysisEnginePR.java
+END
+GATEApplicationAnnotator.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/UIMA/src/gate/uima/GATEApplicationAnnotator.java
+END
+gateIndexTypeDefinition.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/UIMA/src/gate/uima/gateIndexTypeDefinition.xml
+END
+GATEApplicationAnnotator_Messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/UIMA/src/gate/uima/GATEApplicationAnnotator_Messages.properties
+END

@@ -1,0 +1,13 @@
+K 10
+svn:ignore
+V 48
+gate.jar
+.log4j.properties.swp
+gateLauncher.jar
+
+K 13
+svn:mergeinfo
+V 70
+/gate/branches/new-ontology-api/bin:10584-11598
+/gate/trunk/bin:3-1426
+END

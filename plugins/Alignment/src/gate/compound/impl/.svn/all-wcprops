@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Alignment/src/gate/compound/impl
+END
+SwitchMemberPR.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Alignment/src/gate/compound/impl/SwitchMemberPR.java
+END
+AnnotationStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Alignment/src/gate/compound/impl/AnnotationStream.java
+END
+AbstractCompoundDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Alignment/src/gate/compound/impl/AbstractCompoundDocument.java
+END
+CompoundDocumentFromXml.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Alignment/src/gate/compound/impl/CompoundDocumentFromXml.java
+END
+DeleteMemberPR.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Alignment/src/gate/compound/impl/DeleteMemberPR.java
+END
+CompoundDocumentImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Alignment/src/gate/compound/impl/CompoundDocumentImpl.java
+END

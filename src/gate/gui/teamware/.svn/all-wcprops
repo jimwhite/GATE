@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/teamware
+END
+AnnotationSetNameComboEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/teamware/AnnotationSetNameComboEditor.java
+END
+TeamwareUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/teamware/TeamwareUtils.java
+END
+InputOutputAnnotationSetsDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/teamware/InputOutputAnnotationSetsDialog.java
+END
+AnnotationSetNameCellRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/teamware/AnnotationSetNameCellRenderer.java
+END

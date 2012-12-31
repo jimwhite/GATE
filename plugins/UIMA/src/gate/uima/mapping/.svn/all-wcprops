@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/UIMA/src/gate/uima/mapping
+END
+ObjectManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/UIMA/src/gate/uima/mapping/ObjectManager.java
+END
+ObjectBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/UIMA/src/gate/uima/mapping/ObjectBuilder.java
+END
+UIMAFSFeatureValueBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/UIMA/src/gate/uima/mapping/UIMAFSFeatureValueBuilder.java
+END
+GateDocumentFeatureValueBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/UIMA/src/gate/uima/mapping/GateDocumentFeatureValueBuilder.java
+END
+StringBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/UIMA/src/gate/uima/mapping/StringBuilder.java
+END
+FeatureDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/UIMA/src/gate/uima/mapping/FeatureDefinition.java
+END
+UIMAFeatureStructureBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/UIMA/src/gate/uima/mapping/UIMAFeatureStructureBuilder.java
+END
+objectbuilders.properties
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/UIMA/src/gate/uima/mapping/objectbuilders.properties
+END
+GateAnnotFeatureValueBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/UIMA/src/gate/uima/mapping/GateAnnotFeatureValueBuilder.java
+END
+UIMAAnnotationBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/UIMA/src/gate/uima/mapping/UIMAAnnotationBuilder.java
+END
+GateAnnotationBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/UIMA/src/gate/uima/mapping/GateAnnotationBuilder.java
+END
+MappingException.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/UIMA/src/gate/uima/mapping/MappingException.java
+END

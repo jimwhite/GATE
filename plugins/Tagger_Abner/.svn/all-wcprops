@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_Abner
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_Abner/LICENSE
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_Abner/build.xml
+END
+creole.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_Abner/creole.xml
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_Abner/README
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/JAPE_Plus/src/com/ontotext/jape/automaton
+END
+IntSequence.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/JAPE_Plus/src/com/ontotext/jape/automaton/IntSequence.java
+END
+ClosedHashOfLabels.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/JAPE_Plus/src/com/ontotext/jape/automaton/ClosedHashOfLabels.java
+END
+Automaton.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/JAPE_Plus/src/com/ontotext/jape/automaton/Automaton.java
+END
+TripleTransitions.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/JAPE_Plus/src/com/ontotext/jape/automaton/TripleTransitions.java
+END
+AutomatonBuildHelp.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/JAPE_Plus/src/com/ontotext/jape/automaton/AutomatonBuildHelp.java
+END
+AutomatonMinimizationHelp.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/JAPE_Plus/src/com/ontotext/jape/automaton/AutomatonMinimizationHelp.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/JAPE_Plus/src/com/ontotext/jape/automaton/Constants.java
+END
+WholeSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/JAPE_Plus/src/com/ontotext/jape/automaton/WholeSet.java
+END
+GenericWholeArrray.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/JAPE_Plus/src/com/ontotext/jape/automaton/GenericWholeArrray.java
+END
+AutomatonDeterminizationHelp.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/JAPE_Plus/src/com/ontotext/jape/automaton/AutomatonDeterminizationHelp.java
+END
+ClosedHashOfObjects.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/JAPE_Plus/src/com/ontotext/jape/automaton/ClosedHashOfObjects.java
+END
+CodeInt.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/JAPE_Plus/src/com/ontotext/jape/automaton/CodeInt.java
+END
+EpsilonClosure.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/JAPE_Plus/src/com/ontotext/jape/automaton/EpsilonClosure.java
+END
+ClosedHashOfStrings.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/JAPE_Plus/src/com/ontotext/jape/automaton/ClosedHashOfStrings.java
+END

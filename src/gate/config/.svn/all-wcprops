@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/config
+END
+SystemData.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/config/SystemData.java
+END
+ConfigDataProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/config/ConfigDataProcessor.java
+END
+ConfigXmlHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/config/ConfigXmlHandler.java
+END
+TestConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/config/TestConfig.java
+END

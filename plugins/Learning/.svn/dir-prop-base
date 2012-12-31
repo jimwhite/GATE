@@ -1,0 +1,14 @@
+K 10
+svn:ignore
+V 49
+build
+learningapi.jar
+TEST-*.xml
+.creole.xml.swp
+
+K 13
+svn:mergeinfo
+V 95
+/gate/branches/new-ontology-api/plugins/learning:10584-11598
+/gate/trunk/plugins/learning:3-390
+END

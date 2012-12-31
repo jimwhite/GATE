@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/queries/default
+END
+getClassesAllBlank
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/queries/default/getClassesAllBlank
+END
+getSubClassesAllFor
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/queries/default/getSubClassesAllFor
+END
+getSubClassesDirectFor
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/queries/default/getSubClassesDirectFor
+END
+getClassesAllNamedNoW3
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/queries/default/getClassesAllNamedNoW3
+END
+getOntologyURIs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/queries/default/getOntologyURIs
+END
+getClassesTopBlank
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/queries/default/getClassesTopBlank
+END
+hasInstance
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/queries/default/hasInstance
+END
+getClassesByNameNoW3
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/queries/default/getClassesByNameNoW3
+END
+getSubClassesAllBlank
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/queries/default/getSubClassesAllBlank
+END
+getSubClassesDirectBlank
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/queries/default/getSubClassesDirectBlank
+END
+getClassesAllAll
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/queries/default/getClassesAllAll
+END
+getInstancesAllFor
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/queries/default/getInstancesAllFor
+END
+getClassesTopNamedNoW3
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/queries/default/getClassesTopNamedNoW3
+END
+hasInstanceDirectFor
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/queries/default/hasInstanceDirectFor
+END
+getSubClassesAllNamed
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/queries/default/getSubClassesAllNamed
+END
+getSubClassesDirectNamed
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/queries/default/getSubClassesDirectNamed
+END
+hasInstanceAllFor
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/queries/default/hasInstanceAllFor
+END
+getInstancesDirectFor
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/queries/default/getInstancesDirectFor
+END
+getInstancesAll
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/queries/default/getInstancesAll
+END
+getRestrictionTypeFor
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/queries/default/getRestrictionTypeFor
+END
+getClassesTopAll.SPARQL
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/queries/default/getClassesTopAll.SPARQL
+END
+getClassesTopAll
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/queries/default/getClassesTopAll
+END

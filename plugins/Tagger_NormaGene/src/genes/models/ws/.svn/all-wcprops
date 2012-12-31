@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_NormaGene/src/genes/models/ws
+END
+MyMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_NormaGene/src/genes/models/ws/MyMap.java
+END
+GeneToolsService.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_NormaGene/src/genes/models/ws/GeneToolsService.java
+END
+GeneTools_GeneToolsPort_Client.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_NormaGene/src/genes/models/ws/GeneTools_GeneToolsPort_Client.java
+END
+ObjectFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_NormaGene/src/genes/models/ws/ObjectFactory.java
+END
+IOException_Exception.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_NormaGene/src/genes/models/ws/IOException_Exception.java
+END
+IOException.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_NormaGene/src/genes/models/ws/IOException.java
+END
+GeneTools.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_NormaGene/src/genes/models/ws/GeneTools.java
+END
+GetBioCreativeResultsResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_NormaGene/src/genes/models/ws/GetBioCreativeResultsResponse.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_NormaGene/src/genes/models/ws/package-info.java
+END
+GetBioCreativeResults.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_NormaGene/src/genes/models/ws/GetBioCreativeResults.java
+END
+GetGenesTaggerResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_NormaGene/src/genes/models/ws/GetGenesTaggerResponse.java
+END
+GetGenesTagger.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_NormaGene/src/genes/models/ws/GetGenesTagger.java
+END
+A.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_NormaGene/src/genes/models/ws/A.java
+END

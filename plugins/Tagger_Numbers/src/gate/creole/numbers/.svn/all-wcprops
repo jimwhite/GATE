@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_Numbers/src/gate/creole/numbers
+END
+AnnotationConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_Numbers/src/gate/creole/numbers/AnnotationConstants.java
+END
+RomanNumeralsTagger.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_Numbers/src/gate/creole/numbers/RomanNumeralsTagger.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_Numbers/src/gate/creole/numbers/package-info.java
+END
+NumbersTagger.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_Numbers/src/gate/creole/numbers/NumbersTagger.java
+END

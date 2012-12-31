@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Machine_Learning/src/gate/creole/ml/weka
+END
+StringToNominalFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Machine_Learning/src/gate/creole/ml/weka/StringToNominalFilter.java
+END
+Wrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Machine_Learning/src/gate/creole/ml/weka/Wrapper.java
+END

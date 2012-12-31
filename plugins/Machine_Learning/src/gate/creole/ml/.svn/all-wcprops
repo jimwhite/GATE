@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Machine_Learning/src/gate/creole/ml
+END
+Attribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Machine_Learning/src/gate/creole/ml/Attribute.java
+END
+MachineLearningPR.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Machine_Learning/src/gate/creole/ml/MachineLearningPR.java
+END
+DatasetDefintion.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Machine_Learning/src/gate/creole/ml/DatasetDefintion.java
+END
+AdvancedMLEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Machine_Learning/src/gate/creole/ml/AdvancedMLEngine.java
+END
+MLEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Machine_Learning/src/gate/creole/ml/MLEngine.java
+END

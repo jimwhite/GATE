@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/security
+END
+SecurityException.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/security/SecurityException.java
+END
+Group.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/security/Group.java
+END
+SecurityInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/security/SecurityInfo.java
+END
+User.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/security/User.java
+END
+Session.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/security/Session.java
+END

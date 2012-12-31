@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/TermRaider/src/gate/termraider/gui
+END
+PMIDebugger.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/TermRaider/src/gate/termraider/gui/PMIDebugger.java
+END
+TermbankViewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/TermRaider/src/gate/termraider/gui/TermbankViewer.java
+END
+HyponymyDebugger.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/TermRaider/src/gate/termraider/gui/HyponymyDebugger.java
+END
+PairbankViewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/TermRaider/src/gate/termraider/gui/PairbankViewer.java
+END
+CsvFileSelectionActionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/TermRaider/src/gate/termraider/gui/CsvFileSelectionActionListener.java
+END
+SliderPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/TermRaider/src/gate/termraider/gui/SliderPanel.java
+END
+ActionSaveCsv.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/TermRaider/src/gate/termraider/gui/ActionSaveCsv.java
+END
+ColorMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/TermRaider/src/gate/termraider/gui/ColorMenu.java
+END
+MultilineCellRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/TermRaider/src/gate/termraider/gui/MultilineCellRenderer.java
+END

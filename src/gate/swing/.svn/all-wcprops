@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/swing
+END
+CheckBoxTableCellRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/swing/CheckBoxTableCellRenderer.java
+END
+ColorGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/swing/ColorGenerator.java
+END
+BlockingGlassPane.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/swing/BlockingGlassPane.java
+END
+XJFileChooser.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/swing/XJFileChooser.java
+END
+JChoice.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/swing/JChoice.java
+END
+MenuLayout.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/swing/MenuLayout.java
+END
+XJTextPane.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/swing/XJTextPane.java
+END
+XJEditorPane.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/swing/XJEditorPane.java
+END
+JTreeTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/swing/JTreeTable.java
+END
+XJTabbedPane.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/swing/XJTabbedPane.java
+END
+XJMenuItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/swing/XJMenuItem.java
+END
+JFontChooser.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/swing/JFontChooser.java
+END
+WaitDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/swing/WaitDialog.java
+END
+SpringUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/swing/SpringUtilities.java
+END
+VerticalTextIcon.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/swing/VerticalTextIcon.java
+END
+XJTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/swing/XJTable.java
+END
+MenuLayoutTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/swing/MenuLayoutTest.java
+END
+JMenuButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/swing/JMenuButton.java
+END
+AbstractTreeTableModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/swing/AbstractTreeTableModel.java
+END
+IconTableCellRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/swing/IconTableCellRenderer.java
+END
+TreeTableModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/swing/TreeTableModel.java
+END
+XJPopupMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/swing/XJPopupMenu.java
+END
+TestJTreeTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/swing/TestJTreeTable.java
+END
+XJMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/swing/XJMenu.java
+END

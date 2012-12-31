@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Groovy/resources/scripts
+END
+tfidf.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Groovy/resources/scripts/tfidf.groovy
+END
+regex.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Groovy/resources/scripts/regex.groovy
+END
+noop.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Groovy/resources/scripts/noop.groovy
+END
+hello.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Groovy/resources/scripts/hello.groovy
+END
+copyAnnotations.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Groovy/resources/scripts/copyAnnotations.groovy
+END
+zeroLengthAnnotation.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Groovy/resources/scripts/zeroLengthAnnotation.groovy
+END

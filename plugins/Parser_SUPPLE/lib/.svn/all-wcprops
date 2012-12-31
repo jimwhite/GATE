@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Parser_SUPPLE/lib
+END
+jpl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Parser_SUPPLE/lib/jpl.jar
+END
+plcafe.jar
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Parser_SUPPLE/lib/plcafe.jar
+END
+compiler.jar
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Parser_SUPPLE/lib/compiler.jar
+END
+plcafe.licence
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Parser_SUPPLE/lib/plcafe.licence
+END

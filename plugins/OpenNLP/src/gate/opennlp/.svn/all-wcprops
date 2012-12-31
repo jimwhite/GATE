@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/OpenNLP/src/gate/opennlp
+END
+OpenNlpTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/OpenNLP/src/gate/opennlp/OpenNlpTokenizer.java
+END
+OpenNlpSentenceSplit.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/OpenNLP/src/gate/opennlp/OpenNlpSentenceSplit.java
+END
+OpenNlpPOS.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/OpenNLP/src/gate/opennlp/OpenNlpPOS.java
+END
+OpenNLPNameFin.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/OpenNLP/src/gate/opennlp/OpenNLPNameFin.java
+END
+Sentence.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/OpenNLP/src/gate/opennlp/Sentence.java
+END
+OpenNlpChunker.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/OpenNLP/src/gate/opennlp/OpenNlpChunker.java
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Coref_Tools/src/gate/creole/coref/matchers
+END
+AbstractMatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Coref_Tools/src/gate/creole/coref/matchers/AbstractMatcher.java
+END
+Alias.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Coref_Tools/src/gate/creole/coref/matchers/Alias.java
+END
+Initials.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Coref_Tools/src/gate/creole/coref/matchers/Initials.java
+END
+MwePart.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Coref_Tools/src/gate/creole/coref/matchers/MwePart.java
+END
+True.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Coref_Tools/src/gate/creole/coref/matchers/True.java
+END
+DocumentText.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Coref_Tools/src/gate/creole/coref/matchers/DocumentText.java
+END
+And.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Coref_Tools/src/gate/creole/coref/matchers/And.java
+END
+CompoundMatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Coref_Tools/src/gate/creole/coref/matchers/CompoundMatcher.java
+END
+Or.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Coref_Tools/src/gate/creole/coref/matchers/Or.java
+END
+False.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Coref_Tools/src/gate/creole/coref/matchers/False.java
+END
+TransitiveAnd.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Coref_Tools/src/gate/creole/coref/matchers/TransitiveAnd.java
+END

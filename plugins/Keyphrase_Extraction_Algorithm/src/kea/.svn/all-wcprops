@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Keyphrase_Extraction_Algorithm/src/kea
+END
+KEAFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Keyphrase_Extraction_Algorithm/src/kea/KEAFilter.java
+END
+StopwordsGerman.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Keyphrase_Extraction_Algorithm/src/kea/StopwordsGerman.java
+END
+Counter.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Keyphrase_Extraction_Algorithm/src/kea/Counter.java
+END
+IteratedLovinsStemmer.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Keyphrase_Extraction_Algorithm/src/kea/IteratedLovinsStemmer.java
+END
+GermanStemmer.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Keyphrase_Extraction_Algorithm/src/kea/GermanStemmer.java
+END
+KEAModelBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Keyphrase_Extraction_Algorithm/src/kea/KEAModelBuilder.java
+END
+StopwordsEnglish.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Keyphrase_Extraction_Algorithm/src/kea/StopwordsEnglish.java
+END
+KEAPhraseFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Keyphrase_Extraction_Algorithm/src/kea/KEAPhraseFilter.java
+END
+Stopwords.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Keyphrase_Extraction_Algorithm/src/kea/Stopwords.java
+END
+LovinsStemmer.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Keyphrase_Extraction_Algorithm/src/kea/LovinsStemmer.java
+END
+KEAKeyphraseExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Keyphrase_Extraction_Algorithm/src/kea/KEAKeyphraseExtractor.java
+END
+NumbersFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Keyphrase_Extraction_Algorithm/src/kea/NumbersFilter.java
+END
+Stemmer.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Keyphrase_Extraction_Algorithm/src/kea/Stemmer.java
+END

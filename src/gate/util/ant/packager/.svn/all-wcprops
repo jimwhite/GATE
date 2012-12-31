@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/util/ant/packager
+END
+GappModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/util/ant/packager/GappModel.java
+END
+GazetteerLists.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/util/ant/packager/GazetteerLists.java
+END
+PackageGappTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/util/ant/packager/PackageGappTask.java
+END

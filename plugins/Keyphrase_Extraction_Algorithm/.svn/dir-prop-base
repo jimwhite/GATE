@@ -1,0 +1,12 @@
+K 10
+svn:ignore
+V 14
+build
+kea.jar
+
+K 13
+svn:mergeinfo
+V 85
+/gate/branches/new-ontology-api/plugins/Kea:10584-11598
+/gate/trunk/plugins/Kea:3-390
+END

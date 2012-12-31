@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/util/reporting/exceptions
+END
+BenchmarkReportException.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/util/reporting/exceptions/BenchmarkReportException.java
+END
+BenchmarkReportFileAccessException.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/util/reporting/exceptions/BenchmarkReportFileAccessException.java
+END
+BenchmarkReportExecutionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/util/reporting/exceptions/BenchmarkReportExecutionException.java
+END
+BenchmarkReportInputFileFormatException.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/util/reporting/exceptions/BenchmarkReportInputFileFormatException.java
+END

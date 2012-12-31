@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/html
+END
+TestHtml.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/html/TestHtml.java
+END
+NekoHtmlDocumentHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/html/NekoHtmlDocumentHandler.java
+END
+HtmlDocumentHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/html/HtmlDocumentHandler.java
+END

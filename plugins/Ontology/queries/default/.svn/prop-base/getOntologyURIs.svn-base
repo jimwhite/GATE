@@ -1,0 +1,8 @@
+K 13
+svn:mergeinfo
+V 360
+/gate/branches/new-ontology-api/plugins/Ontology/queries/default/getOntologyURIs:10584-11186,11578-11598
+/gate/branches/plugin-Ontology-post-6.1/queries/default/getOntologyURIs:13880-13964,13966-14232
+/gate/trunk/plugins/OWLIM3Ontology/queries/default/getOntologyURIs:10584-10802
+/gate/trunk/plugins/Ontology/queries/default/getOntologyURIs:3-10583,11164-11551
+END

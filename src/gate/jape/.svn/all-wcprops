@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/jape
+END
+LeftHandSide.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/jape/LeftHandSide.java
+END
+SinglePhaseTransducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/jape/SinglePhaseTransducer.java
+END
+Test11.jape
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/jape/Test11.jape
+END
+TestABC.jape
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/jape/TestABC.jape
+END
+JapeConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/jape/JapeConstants.java
+END
+JapeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/jape/JapeException.java
+END
+ConstraintGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/jape/ConstraintGroup.java
+END
+RightHandSide.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/jape/RightHandSide.java
+END
+MutableBoolean.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/jape/MutableBoolean.java
+END
+ComplexPatternElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/jape/ComplexPatternElement.java
+END
+zxc.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/jape/zxc.html
+END
+JdmException.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/jape/JdmException.java
+END
+BasicPatternElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/jape/BasicPatternElement.java
+END
+ControllerEventBlocksAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/jape/ControllerEventBlocksAction.java
+END
+SinglePhaseTransducer.java.caching
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/jape/SinglePhaseTransducer.java.caching
+END
+DefaultActionContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/jape/DefaultActionContext.java
+END
+PrioritisedRuleList.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/jape/PrioritisedRuleList.java
+END
+Transducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/jape/Transducer.java
+END
+NonFatalJapeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/jape/NonFatalJapeException.java
+END
+PatternElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/jape/PatternElement.java
+END
+JdmAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/jape/JdmAttribute.java
+END
+SourceInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/jape/SourceInfo.java
+END
+Compiler.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/jape/Compiler.java
+END
+Constraint.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/jape/Constraint.java
+END
+Rule.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/jape/Rule.java
+END
+KleeneOperator.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/jape/KleeneOperator.java
+END
+Batch.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/jape/Batch.java
+END
+ActionContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/jape/ActionContext.java
+END
+MultiPhaseTransducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/jape/MultiPhaseTransducer.java
+END
+MutableInteger.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/jape/MutableInteger.java
+END
+RhsAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/jape/RhsAction.java
+END
+ClassesInTheTransducer.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/jape/ClassesInTheTransducer.txt
+END

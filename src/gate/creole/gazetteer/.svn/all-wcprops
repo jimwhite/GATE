@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/gazetteer
+END
+MappingNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/gazetteer/MappingNode.java
+END
+TestFlexibleGazetteer.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/gazetteer/TestFlexibleGazetteer.java
+END
+GazetteerNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/gazetteer/GazetteerNode.java
+END
+Gazetteer.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/gazetteer/Gazetteer.java
+END
+GazetteerEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/gazetteer/GazetteerEvent.java
+END
+DefaultGazetteer.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/gazetteer/DefaultGazetteer.java
+END
+NodePosition.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/gazetteer/NodePosition.java
+END
+AbstractGazetteer.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/gazetteer/AbstractGazetteer.java
+END
+GazetteerList.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/gazetteer/GazetteerList.java
+END
+LinearNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/gazetteer/LinearNode.java
+END
+FlexGazMappingTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/gazetteer/FlexGazMappingTable.java
+END
+FlexibleGazetteer.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/gazetteer/FlexibleGazetteer.java
+END
+GazetteerException.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/gazetteer/GazetteerException.java
+END
+GazetteerListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/gazetteer/GazetteerListener.java
+END
+MappingDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/gazetteer/MappingDefinition.java
+END
+InvalidFormatException.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/gazetteer/InvalidFormatException.java
+END
+TestGazetteer.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/gazetteer/TestGazetteer.java
+END
+Lookup.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/gazetteer/Lookup.java
+END
+LinearDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/gazetteer/LinearDefinition.java
+END
+OntoGazetteerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/gazetteer/OntoGazetteerImpl.java
+END
+OntoGazetteer.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/gazetteer/OntoGazetteer.java
+END
+AbstractOntoGazetteer.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/gazetteer/AbstractOntoGazetteer.java
+END
+FSMState.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/gazetteer/FSMState.java
+END
+SharedDefaultGazetteer.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/gazetteer/SharedDefaultGazetteer.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/test
+END
+queryLocal.sh
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/test/queryLocal.sh
+END
+q_all.sparql
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/test/q_all.sparql
+END
+ins1.sparql
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/test/ins1.sparql
+END
+createRemoteRepository.sh
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/test/createRemoteRepository.sh
+END
+createLocalRepository.sh
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/test/createLocalRepository.sh
+END
+importIntoLocal.sh
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/test/importIntoLocal.sh
+END
+ask1.sparql
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/test/ask1.sparql
+END

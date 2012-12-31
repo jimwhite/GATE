@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/META-INF
+END
+spring.schemas
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/META-INF/spring.schemas
+END
+spring.handlers
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/META-INF/spring.handlers
+END

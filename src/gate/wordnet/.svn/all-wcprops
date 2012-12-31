@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/wordnet
+END
+LexicalRelation.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/wordnet/LexicalRelation.java
+END
+Verb.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/wordnet/Verb.java
+END
+VerbFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/wordnet/VerbFrame.java
+END
+WordNetException.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/wordnet/WordNetException.java
+END
+Relation.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/wordnet/Relation.java
+END
+Synset.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/wordnet/Synset.java
+END
+Word.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/wordnet/Word.java
+END
+Adjective.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/wordnet/Adjective.java
+END
+WordSense.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/wordnet/WordSense.java
+END
+WordNet.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/wordnet/WordNet.java
+END
+SemanticRelation.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/wordnet/SemanticRelation.java
+END

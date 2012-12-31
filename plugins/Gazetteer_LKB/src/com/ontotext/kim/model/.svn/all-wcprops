@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Gazetteer_LKB/src/com/ontotext/kim/model
+END
+Options.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Gazetteer_LKB/src/com/ontotext/kim/model/Options.java
+END
+ParsingFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Gazetteer_LKB/src/com/ontotext/kim/model/ParsingFrame.java
+END
+AliasTextTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Gazetteer_LKB/src/com/ontotext/kim/model/AliasTextTransformer.java
+END
+ClassStatisticListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Gazetteer_LKB/src/com/ontotext/kim/model/ClassStatisticListener.java
+END
+EntitiesQueryListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Gazetteer_LKB/src/com/ontotext/kim/model/EntitiesQueryListener.java
+END
+EntityPriority.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Gazetteer_LKB/src/com/ontotext/kim/model/EntityPriority.java
+END
+KIMDataFeed.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Gazetteer_LKB/src/com/ontotext/kim/model/KIMDataFeed.java
+END
+StatisticListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Gazetteer_LKB/src/com/ontotext/kim/model/StatisticListener.java
+END
+HashedAlias.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Gazetteer_LKB/src/com/ontotext/kim/model/HashedAlias.java
+END
+AliasCacheImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Gazetteer_LKB/src/com/ontotext/kim/model/AliasCacheImpl.java
+END
+DataFeedFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Gazetteer_LKB/src/com/ontotext/kim/model/DataFeedFactory.java
+END
+HashRegister.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Gazetteer_LKB/src/com/ontotext/kim/model/HashRegister.java
+END

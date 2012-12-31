@@ -1,0 +1,20 @@
+K 10
+svn:ignore
+V 109
+.externalToolBuilders
+.project
+.classpath
+.creole.xml.swp
+.build.xml.swp
+build
+Ontology.jar
+.ask1.sparql.swp
+
+K 13
+svn:mergeinfo
+V 220
+/gate/branches/new-ontology-api/plugins/Ontology:10584-10909,11578-11598
+/gate/branches/plugin-Ontology-post-6.1:13880-13964,13966-14232
+/gate/trunk/plugins/OWLIM3Ontology:10584-10802
+/gate/trunk/plugins/Ontology:3-10583
+END

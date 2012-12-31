@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Cebuano
+END
+cebtag.jar
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Cebuano/cebtag.jar
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Cebuano/build.xml
+END
+creole.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Cebuano/creole.xml
+END

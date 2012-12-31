@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Machine_Learning/lib
+END
+maxent-2.4.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Machine_Learning/lib/maxent-2.4.0.jar
+END
+weka-3.4.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Machine_Learning/lib/weka-3.4.6.jar
+END
+troveForMaxent.jar
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Machine_Learning/lib/troveForMaxent.jar
+END

@@ -1,0 +1,7 @@
+K 13
+svn:mergeinfo
+V 187
+/gate/branches/cl-experiment/src/gate/creole/ontology:15466-15613
+/gate/branches/new-ontology-api/src/gate/creole/ontology:10584-11598,11647-11695
+/gate/trunk/src/gate/creole/ontology:3-7
+END

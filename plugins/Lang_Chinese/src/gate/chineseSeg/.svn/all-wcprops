@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Chinese/src/gate/chineseSeg
+END
+RunMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Chinese/src/gate/chineseSeg/RunMode.java
+END
+ConstantParameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Chinese/src/gate/chineseSeg/ConstantParameters.java
+END
+TestChineseSegMain.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Chinese/src/gate/chineseSeg/TestChineseSegMain.java
+END
+ChineseSegMain.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Chinese/src/gate/chineseSeg/ChineseSegMain.java
+END

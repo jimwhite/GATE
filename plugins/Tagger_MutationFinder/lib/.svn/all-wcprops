@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_MutationFinder/lib
+END
+LICENSE_FOR_MUTATIONFINDER
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_MutationFinder/lib/LICENSE_FOR_MUTATIONFINDER
+END
+LICENSE_FOR_JAKARTA_ORO
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_MutationFinder/lib/LICENSE_FOR_JAKARTA_ORO
+END
+mutationFinder.jar
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_MutationFinder/lib/mutationFinder.jar
+END
+jakarta-oro-2.0.8.jar
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_MutationFinder/lib/jakarta-oro-2.0.8.jar
+END

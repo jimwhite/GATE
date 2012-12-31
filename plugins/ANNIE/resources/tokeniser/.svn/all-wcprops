@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/ANNIE/resources/tokeniser
+END
+DefaultTokeniser.rules
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/ANNIE/resources/tokeniser/DefaultTokeniser.rules
+END
+postprocess.jape
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/ANNIE/resources/tokeniser/postprocess.jape
+END
+AlternateTokeniser.rules
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/ANNIE/resources/tokeniser/AlternateTokeniser.rules
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/resources/gate.ac.uk/tests/creole-annotation-handler
+END
+expected-creole.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/resources/gate.ac.uk/tests/creole-annotation-handler/expected-creole.xml
+END
+initial-creole.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/resources/gate.ac.uk/tests/creole-annotation-handler/initial-creole.xml
+END

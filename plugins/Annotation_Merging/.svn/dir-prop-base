@@ -1,0 +1,13 @@
+K 10
+svn:ignore
+V 35
+annotationMerging.jar
+build
+TEST-*
+
+K 13
+svn:mergeinfo
+V 113
+/gate/branches/new-ontology-api/plugins/annotationMerging:10584-11598
+/gate/trunk/plugins/annotationMerging:3-390
+END

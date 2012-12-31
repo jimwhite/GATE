@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_PennBio/src/edu/upenn/cis/taggers/malignancy
+END
+MalignancyTrainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_PennBio/src/edu/upenn/cis/taggers/malignancy/MalignancyTrainer.java
+END
+MalignancyTagger.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_PennBio/src/edu/upenn/cis/taggers/malignancy/MalignancyTagger.java
+END
+MalignancySegmentationEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_PennBio/src/edu/upenn/cis/taggers/malignancy/MalignancySegmentationEvaluator.java
+END
+MaligSentence2TokenSequence.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_PennBio/src/edu/upenn/cis/taggers/malignancy/MaligSentence2TokenSequence.java
+END

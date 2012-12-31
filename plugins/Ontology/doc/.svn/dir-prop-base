@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 8
+javadoc
+
+K 13
+svn:mergeinfo
+V 108
+/gate/branches/plugin-Ontology-post-6.1/doc:13880-13964,13966-14232
+/gate/trunk/plugins/Ontology/doc:3-10583
+END

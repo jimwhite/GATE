@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/resources/gate.ac.uk/tests/morph
+END
+nounAnswer.dat
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/resources/gate.ac.uk/tests/morph/nounAnswer.dat
+END
+nounTest.dat
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/resources/gate.ac.uk/tests/morph/nounTest.dat
+END
+verbAnswer.dat
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/resources/gate.ac.uk/tests/morph/verbAnswer.dat
+END
+verbTest.dat
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/resources/gate.ac.uk/tests/morph/verbTest.dat
+END

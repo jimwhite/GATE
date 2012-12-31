@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Chinese/src/chinese
+END
+InferedGazetteer.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Chinese/src/chinese/InferedGazetteer.java
+END
+ChineseGazetteer.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Chinese/src/chinese/ChineseGazetteer.java
+END
+ChineseIE.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Chinese/src/chinese/ChineseIE.java
+END
+ChineseInferedTransducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Chinese/src/chinese/ChineseInferedTransducer.java
+END
+ChineseOrthoMatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Chinese/src/chinese/ChineseOrthoMatcher.java
+END
+ChineseSplitTransducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Chinese/src/chinese/ChineseSplitTransducer.java
+END
+ChineseTransducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Chinese/src/chinese/ChineseTransducer.java
+END
+SpecialGazetteer.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Chinese/src/chinese/SpecialGazetteer.java
+END
+ChineseTokeniser.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Chinese/src/chinese/ChineseTokeniser.java
+END
+NumbersGazetteer.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Chinese/src/chinese/NumbersGazetteer.java
+END

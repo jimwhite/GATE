@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Chinese/resources/models
+END
+model-paum-pku-gb.zip
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Chinese/resources/models/model-paum-pku-gb.zip
+END
+model-paum-pku-utf8.zip
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Chinese/resources/models/model-paum-pku-utf8.zip
+END
+model-as-utf8.zip
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Chinese/resources/models/model-as-utf8.zip
+END
+model-as-big5.zip
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Chinese/resources/models/model-as-big5.zip
+END

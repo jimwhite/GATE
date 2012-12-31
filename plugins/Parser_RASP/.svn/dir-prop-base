@@ -1,0 +1,13 @@
+K 10
+svn:ignore
+V 27
+classes
+rasp2.jar
+rasp.jar
+
+K 13
+svn:mergeinfo
+V 87
+/gate/branches/new-ontology-api/plugins/rasp:10584-11598
+/gate/trunk/plugins/rasp:3-390
+END

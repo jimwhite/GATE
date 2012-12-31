@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/annic/apache/lucene/analysis
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/annic/apache/lucene/analysis/package.html
+END
+Token.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/annic/apache/lucene/analysis/Token.java
+END
+TokenStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/annic/apache/lucene/analysis/TokenStream.java
+END
+Tokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/annic/apache/lucene/analysis/Tokenizer.java
+END
+Analyzer.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/annic/apache/lucene/analysis/Analyzer.java
+END

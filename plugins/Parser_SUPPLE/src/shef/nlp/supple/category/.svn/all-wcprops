@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Parser_SUPPLE/src/shef/nlp/supple/category
+END
+Chart.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Parser_SUPPLE/src/shef/nlp/supple/category/Chart.java
+END
+Category.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Parser_SUPPLE/src/shef/nlp/supple/category/Category.java
+END
+Edge.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Parser_SUPPLE/src/shef/nlp/supple/category/Edge.java
+END
+FeatureValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Parser_SUPPLE/src/shef/nlp/supple/category/FeatureValue.java
+END
+InitialEdge.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Parser_SUPPLE/src/shef/nlp/supple/category/InitialEdge.java
+END

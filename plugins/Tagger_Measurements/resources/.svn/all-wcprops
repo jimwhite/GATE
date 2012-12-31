@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_Measurements/resources
+END
+common_words.txt
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_Measurements/resources/common_words.txt
+END
+units.dat
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_Measurements/resources/units.dat
+END
+measurements.xgapp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_Measurements/resources/measurements.xgapp
+END
+annie-measurements.xgapp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_Measurements/resources/annie-measurements.xgapp
+END

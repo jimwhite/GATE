@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Gazetteer_LKB/src/com/ontotext/kim/util/datastore
+END
+PopulateDictionary.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Gazetteer_LKB/src/com/ontotext/kim/util/datastore/PopulateDictionary.java
+END
+GazetteerListFeed.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Gazetteer_LKB/src/com/ontotext/kim/util/datastore/GazetteerListFeed.java
+END
+RepositoryFeed.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Gazetteer_LKB/src/com/ontotext/kim/util/datastore/RepositoryFeed.java
+END

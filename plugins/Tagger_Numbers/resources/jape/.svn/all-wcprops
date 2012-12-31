@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_Numbers/resources/jape
+END
+numbers.jape
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_Numbers/resources/jape/numbers.jape
+END
+clean.jape
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_Numbers/resources/jape/clean.jape
+END
+exponents.jape
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_Numbers/resources/jape/exponents.jape
+END
+post-process.jape
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_Numbers/resources/jape/post-process.jape
+END
+sequence.jape
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_Numbers/resources/jape/sequence.jape
+END

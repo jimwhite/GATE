@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_PennBio/lib
+END
+maxent.jar
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_PennBio/lib/maxent.jar
+END
+mallet-no_gnu.jar
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_PennBio/lib/mallet-no_gnu.jar
+END
+mallet-deps.jar
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_PennBio/lib/mallet-deps.jar
+END
+opennlp-tools-1.0.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_PennBio/lib/opennlp-tools-1.0.0.jar
+END
+trove.jar
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_PennBio/lib/trove.jar
+END

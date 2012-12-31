@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_Framework/resources/GENIA
+END
+tokenize.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_Framework/resources/GENIA/tokenize.cpp
+END
+geniatagger-en-tokenization.gapp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_Framework/resources/GENIA/geniatagger-en-tokenization.gapp
+END
+geniatagger.exe
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_Framework/resources/GENIA/geniatagger.exe
+END
+geniatagger-en-no_tokenization.gapp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_Framework/resources/GENIA/geniatagger-en-no_tokenization.gapp
+END

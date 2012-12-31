@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_Framework/resources/Stanford-Tagger
+END
+StanfordTagger-DE-No_Tokenization.gapp
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_Framework/resources/Stanford-Tagger/StanfordTagger-DE-No_Tokenization.gapp
+END
+StanfordTagger-EN-Tokenization.gapp
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_Framework/resources/Stanford-Tagger/StanfordTagger-EN-Tokenization.gapp
+END
+StanfordTagger-FR-Tokenization.gapp
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_Framework/resources/Stanford-Tagger/StanfordTagger-FR-Tokenization.gapp
+END
+StanfordTagger-FR-No_Tokenization.gapp
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_Framework/resources/Stanford-Tagger/StanfordTagger-FR-No_Tokenization.gapp
+END
+StanfordTagger-EN-No_Tokenization.gapp
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_Framework/resources/Stanford-Tagger/StanfordTagger-EN-No_Tokenization.gapp
+END
+runstanfordtagger-tokenized
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_Framework/resources/Stanford-Tagger/runstanfordtagger-tokenized
+END
+StanfordTagger-DE-Tokenization.gapp
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_Framework/resources/Stanford-Tagger/StanfordTagger-DE-Tokenization.gapp
+END
+StanfordTagger-AR-Tokenization.gapp
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_Framework/resources/Stanford-Tagger/StanfordTagger-AR-Tokenization.gapp
+END
+runstanfordtagger
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_Framework/resources/Stanford-Tagger/runstanfordtagger
+END

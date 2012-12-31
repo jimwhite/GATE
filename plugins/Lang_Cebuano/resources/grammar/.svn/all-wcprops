@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Cebuano/resources/grammar
+END
+main.jape
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Cebuano/resources/grammar/main.jape
+END
+remove_features.jape
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Cebuano/resources/grammar/remove_features.jape
+END
+name_post.jape
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Cebuano/resources/grammar/name_post.jape
+END
+org_context.jape
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Cebuano/resources/grammar/org_context.jape
+END
+name_old.jape
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Cebuano/resources/grammar/name_old.jape
+END
+date_pre.jape
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Cebuano/resources/grammar/date_pre.jape
+END
+url.jape
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Cebuano/resources/grammar/url.jape
+END
+slugbnc.jape
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Cebuano/resources/grammar/slugbnc.jape
+END
+slug.jape
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Cebuano/resources/grammar/slug.jape
+END
+unknown.jape
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Cebuano/resources/grammar/unknown.jape
+END
+identifier.jape
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Cebuano/resources/grammar/identifier.jape
+END
+context-main.jape
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Cebuano/resources/grammar/context-main.jape
+END
+final.jape
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Cebuano/resources/grammar/final.jape
+END
+person.jape
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Cebuano/resources/grammar/person.jape
+END
+gazlocation.jape
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Cebuano/resources/grammar/gazlocation.jape
+END
+address.jape
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Cebuano/resources/grammar/address.jape
+END
+url_pre.jape
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Cebuano/resources/grammar/url_pre.jape
+END
+loc_context.jape
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Cebuano/resources/grammar/loc_context.jape
+END
+first.jape
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Cebuano/resources/grammar/first.jape
+END
+date.jape
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Cebuano/resources/grammar/date.jape
+END
+cebuano-date.jape
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Cebuano/resources/grammar/cebuano-date.jape
+END
+name.jape
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Cebuano/resources/grammar/name.jape
+END
+clean.jape
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Cebuano/resources/grammar/clean.jape
+END
+number.jape
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Cebuano/resources/grammar/number.jape
+END
+spuriousname.jape
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Cebuano/resources/grammar/spuriousname.jape
+END
+reldate.jape
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Cebuano/resources/grammar/reldate.jape
+END
+first_context.jape
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Cebuano/resources/grammar/first_context.jape
+END
+email.jape
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Cebuano/resources/grammar/email.jape
+END
+jobtitle.jape
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Cebuano/resources/grammar/jobtitle.jape
+END
+name_context.jape
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Cebuano/resources/grammar/name_context.jape
+END
+firstname.jape
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Cebuano/resources/grammar/firstname.jape
+END

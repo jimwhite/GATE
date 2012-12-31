@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/annic/lucene
+END
+LuceneDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/annic/lucene/LuceneDocument.java
+END
+LuceneIndexer.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/annic/lucene/LuceneIndexer.java
+END
+LuceneAnalyzer.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/annic/lucene/LuceneAnalyzer.java
+END
+QueryParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/annic/lucene/QueryParser.java
+END
+LuceneSearcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/annic/lucene/LuceneSearcher.java
+END
+SubQueryParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/annic/lucene/SubQueryParser.java
+END
+LuceneIndexSearcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/annic/lucene/LuceneIndexSearcher.java
+END
+LuceneTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/annic/lucene/LuceneTokenizer.java
+END
+LuceneReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/annic/lucene/LuceneReader.java
+END
+LuceneSearchThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/annic/lucene/LuceneSearchThread.java
+END
+LuceneQueryResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/annic/lucene/LuceneQueryResult.java
+END
+PatternValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/annic/lucene/PatternValidator.java
+END
+StatsCalculator.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/annic/lucene/StatsCalculator.java
+END
+LuceneQueryResultList.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/annic/lucene/LuceneQueryResultList.java
+END

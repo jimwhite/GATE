@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/LingPipe/resources/models
+END
+bulgarian-full.model
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/LingPipe/resources/models/bulgarian-full.model
+END
+licence.txt
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/LingPipe/resources/models/licence.txt
+END
+pos-en-general-brown.HiddenMarkovModel
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/LingPipe/resources/models/pos-en-general-brown.HiddenMarkovModel
+END
+ne-es-news-conll2002.AbstractCharLmRescoringChunker.zip
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/LingPipe/resources/models/ne-es-news-conll2002.AbstractCharLmRescoringChunker.zip
+END
+bulgarian-simplified.model
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/LingPipe/resources/models/bulgarian-simplified.model
+END
+langid-leipzig.classifier
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/LingPipe/resources/models/langid-leipzig.classifier
+END
+ne-en-news-muc6.AbstractCharLmRescoringChunker
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/LingPipe/resources/models/ne-en-news-muc6.AbstractCharLmRescoringChunker
+END

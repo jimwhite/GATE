@@ -1,0 +1,15 @@
+K 13
+svn:mergeinfo
+V 306
+/gate/branches/new-ontology-api/plugins/Ontology/src/gate/creole/ontology/impl/Utils.java:10584-10909,11578-11598
+/gate/branches/plugin-Ontology-post-6.1/src/gate/creole/ontology/impl/Utils.java:13880-13964,13966-14232
+/gate/trunk/plugins/OWLIM3Ontology/src/gate/creole/ontology/impl/Utils.java:10584-10802
+K 13
+svn:eol-style
+V 6
+native
+K 12
+svn:keywords
+V 2
+Id
+END

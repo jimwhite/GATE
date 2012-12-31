@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Alignment/src/gate/alignment
+END
+AlignmentException.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Alignment/src/gate/alignment/AlignmentException.java
+END
+AlignmentListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Alignment/src/gate/alignment/AlignmentListener.java
+END
+AlignmentActionInitializationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Alignment/src/gate/alignment/AlignmentActionInitializationException.java
+END
+Alignment.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Alignment/src/gate/alignment/Alignment.java
+END
+ExportAlignmentPR.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Alignment/src/gate/alignment/ExportAlignmentPR.java
+END

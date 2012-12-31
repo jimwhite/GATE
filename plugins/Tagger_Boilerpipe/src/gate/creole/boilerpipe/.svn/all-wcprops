@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_Boilerpipe/src/gate/creole/boilerpipe
+END
+Behaviour.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_Boilerpipe/src/gate/creole/boilerpipe/Behaviour.java
+END
+BoilerPipe.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_Boilerpipe/src/gate/creole/boilerpipe/BoilerPipe.java
+END
+PositionedTextBlock.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_Boilerpipe/src/gate/creole/boilerpipe/PositionedTextBlock.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_Boilerpipe/src/gate/creole/boilerpipe/package-info.java
+END
+Extractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_Boilerpipe/src/gate/creole/boilerpipe/Extractor.java
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/annic/apache/lucene/analysis/standard
+END
+StandardTokenizerTokenManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/annic/apache/lucene/analysis/standard/StandardTokenizerTokenManager.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/annic/apache/lucene/analysis/standard/package.html
+END
+ParseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/annic/apache/lucene/analysis/standard/ParseException.java
+END
+StandardTokenizer.jj
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/annic/apache/lucene/analysis/standard/StandardTokenizer.jj
+END
+StandardTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/annic/apache/lucene/analysis/standard/StandardTokenizer.java
+END
+Token.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/annic/apache/lucene/analysis/standard/Token.java
+END
+TokenMgrError.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/annic/apache/lucene/analysis/standard/TokenMgrError.java
+END
+CharStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/annic/apache/lucene/analysis/standard/CharStream.java
+END
+StandardTokenizerConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/annic/apache/lucene/analysis/standard/StandardTokenizerConstants.java
+END
+FastCharStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/annic/apache/lucene/analysis/standard/FastCharStream.java
+END

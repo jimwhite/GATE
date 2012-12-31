@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/jape/constraint
+END
+EmbeddedConstraintPredicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/jape/constraint/EmbeddedConstraintPredicate.java
+END
+ComparablePredicateTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/jape/constraint/ComparablePredicateTest.java
+END
+NotRegExpMatchPredicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/jape/constraint/NotRegExpMatchPredicate.java
+END
+AnnotationFeatureAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/jape/constraint/AnnotationFeatureAccessor.java
+END
+LengthAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/jape/constraint/LengthAccessor.java
+END
+ConstraintFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/jape/constraint/ConstraintFactory.java
+END
+AbstractRegExpPredicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/jape/constraint/AbstractRegExpPredicate.java
+END
+WithinPredicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/jape/constraint/WithinPredicate.java
+END
+LesserEqualPredicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/jape/constraint/LesserEqualPredicate.java
+END
+SimpleAnnotationAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/jape/constraint/SimpleAnnotationAccessor.java
+END
+NotContainsPredicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/jape/constraint/NotContainsPredicate.java
+END
+EqualPredicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/jape/constraint/EqualPredicate.java
+END
+NotRegExpFindPredicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/jape/constraint/NotRegExpFindPredicate.java
+END
+MetaPropertyAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/jape/constraint/MetaPropertyAccessor.java
+END
+CleanStringAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/jape/constraint/CleanStringAccessor.java
+END
+GreaterEqualPredicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/jape/constraint/GreaterEqualPredicate.java
+END
+GreaterPredicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/jape/constraint/GreaterPredicate.java
+END
+ComparablePredicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/jape/constraint/ComparablePredicate.java
+END
+RegExpMatchPredicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/jape/constraint/RegExpMatchPredicate.java
+END
+ConstraintPredicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/jape/constraint/ConstraintPredicate.java
+END
+NotWithinPredicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/jape/constraint/NotWithinPredicate.java
+END
+ContainsPredicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/jape/constraint/ContainsPredicate.java
+END
+AbstractConstraintPredicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/jape/constraint/AbstractConstraintPredicate.java
+END
+StringAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/jape/constraint/StringAccessor.java
+END
+NotEqualPredicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/jape/constraint/NotEqualPredicate.java
+END
+AnnotationAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/jape/constraint/AnnotationAccessor.java
+END
+RegExpFindPredicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/jape/constraint/RegExpFindPredicate.java
+END
+LesserPredicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/jape/constraint/LesserPredicate.java
+END

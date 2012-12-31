@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Gazetteer_LKB/src/com/ontotext/kim/gate
+END
+KimGazetteer.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Gazetteer_LKB/src/com/ontotext/kim/gate/KimGazetteer.java
+END
+SesameEnrichment.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Gazetteer_LKB/src/com/ontotext/kim/gate/SesameEnrichment.java
+END
+SettingsHashBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Gazetteer_LKB/src/com/ontotext/kim/gate/SettingsHashBuilder.java
+END
+KimLookupParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Gazetteer_LKB/src/com/ontotext/kim/gate/KimLookupParser.java
+END

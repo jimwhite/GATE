@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/annedit
+END
+SchemaAnnotationEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/annedit/SchemaAnnotationEditor.java
+END
+SchemaFeaturesEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/annedit/SchemaFeaturesEditor.java
+END
+SearchAndAnnotatePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/annedit/SearchAndAnnotatePanel.java
+END
+AnnotationData.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/annedit/AnnotationData.java
+END
+AnnotationDataImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/annedit/AnnotationDataImpl.java
+END
+SearchExpressionsAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/annedit/SearchExpressionsAction.java
+END
+AnnotationEditorOwner.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/annedit/AnnotationEditorOwner.java
+END
+JNullableTextField.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/annedit/JNullableTextField.java
+END
+OwnedAnnotationEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/annedit/OwnedAnnotationEditor.java
+END

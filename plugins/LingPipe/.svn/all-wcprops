@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/LingPipe
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/LingPipe/README.txt
+END
+licence.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/LingPipe/licence.txt
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/LingPipe/build.xml
+END
+creole.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/LingPipe/creole.xml
+END

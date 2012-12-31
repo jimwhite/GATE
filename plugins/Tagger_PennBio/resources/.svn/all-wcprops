@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_PennBio/resources
+END
+BioTok.bin.gz
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_PennBio/resources/BioTok.bin.gz
+END
+variationModel.crf.gz
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_PennBio/resources/variationModel.crf.gz
+END
+geneModel.crf.gz
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_PennBio/resources/geneModel.crf.gz
+END
+biotagger.xgapp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_PennBio/resources/biotagger.xgapp
+END
+malignancyModel.crf.gz
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_PennBio/resources/malignancyModel.crf.gz
+END

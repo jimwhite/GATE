@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/annic/apache/lucene/store
+END
+FSDirectory.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/annic/apache/lucene/store/FSDirectory.java
+END
+RAMDirectory.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/annic/apache/lucene/store/RAMDirectory.java
+END
+RAMOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/annic/apache/lucene/store/RAMOutputStream.java
+END
+Directory.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/annic/apache/lucene/store/Directory.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/annic/apache/lucene/store/package.html
+END
+RAMInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/annic/apache/lucene/store/RAMInputStream.java
+END
+Lock.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/annic/apache/lucene/store/Lock.java
+END
+RAMFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/annic/apache/lucene/store/RAMFile.java
+END
+InputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/annic/apache/lucene/store/InputStream.java
+END
+OutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/annic/apache/lucene/store/OutputStream.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/UIMA/test/src/gate/uima/test
+END
+TestGATEInUIMA.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/UIMA/test/src/gate/uima/test/TestGATEInUIMA.java
+END
+TestUIMAInGATE.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/UIMA/test/src/gate/uima/test/TestUIMAInGATE.java
+END

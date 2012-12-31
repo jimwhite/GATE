@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/UIMA/lib
+END
+uima-cpe.jar
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/UIMA/lib/uima-cpe.jar
+END
+uima-tools.jar
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/UIMA/lib/uima-tools.jar
+END
+activation.jar
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/UIMA/lib/activation.jar
+END
+saaj.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/UIMA/lib/saaj.jar
+END
+jVinci.jar
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/UIMA/lib/jVinci.jar
+END
+mail.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/UIMA/lib/mail.jar
+END
+uima-document-annotation.jar
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/UIMA/lib/uima-document-annotation.jar
+END
+uima-adapter-vinci.jar
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/UIMA/lib/uima-adapter-vinci.jar
+END
+axis.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/UIMA/lib/axis.jar
+END
+jaxrpc.jar
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/UIMA/lib/jaxrpc.jar
+END
+uima-core.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/UIMA/lib/uima-core.jar
+END
+commons-logging-1.0.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/UIMA/lib/commons-logging-1.0.4.jar
+END
+uima-examples.jar
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/UIMA/lib/uima-examples.jar
+END
+uima-adapter-soap.jar
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/UIMA/lib/uima-adapter-soap.jar
+END
+commons-discovery-0.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/UIMA/lib/commons-discovery-0.2.jar
+END

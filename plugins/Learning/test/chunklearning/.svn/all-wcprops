@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Learning/test/chunklearning
+END
+engines-paum-exec.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Learning/test/chunklearning/engines-paum-exec.xml
+END
+engines-svm-svmlight.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Learning/test/chunklearning/engines-svm-svmlight.xml
+END
+engines-svm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Learning/test/chunklearning/engines-svm.xml
+END
+engines-naivebayesweka.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Learning/test/chunklearning/engines-naivebayesweka.xml
+END
+engines-paum.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Learning/test/chunklearning/engines-paum.xml
+END

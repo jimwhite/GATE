@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/bin
+END
+search-code.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/bin/search-code.sh
+END
+gate.bat
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/bin/gate.bat
+END
+splash.png
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/bin/splash.png
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/bin/log4j.properties
+END
+gate.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/bin/gate.sh
+END
+GATEXML-content.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/bin/GATEXML-content.sh
+END
+GATEXML-statistics.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/bin/GATEXML-statistics.sh
+END
+plugins-info-to-HTML.pl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/bin/plugins-info-to-HTML.pl
+END

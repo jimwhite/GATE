@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/UIMA/test/conf
+END
+HepTag.gapp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/UIMA/test/conf/HepTag.gapp
+END
+SimpleTokenAndSentenceAnnotator.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/UIMA/test/conf/SimpleTokenAndSentenceAnnotator.xml
+END
+HepTag_GATEAnnotator.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/UIMA/test/conf/HepTag_GATEAnnotator.xml
+END
+TokenizerAndPOSTagger.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/UIMA/test/conf/TokenizerAndPOSTagger.xml
+END
+HepTag_UIMAMapping.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/UIMA/test/conf/HepTag_UIMAMapping.xml
+END
+addstrings.jape
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/UIMA/test/conf/addstrings.jape
+END

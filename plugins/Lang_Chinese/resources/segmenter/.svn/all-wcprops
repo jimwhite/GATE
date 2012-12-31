@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Chinese/resources/segmenter
+END
+segment.sh
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Chinese/resources/segmenter/segment.sh
+END
+segmenter.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Chinese/resources/segmenter/segmenter.html
+END
+.executables
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Chinese/resources/segmenter/.executables
+END
+CTS20001223.1300.0451.sgm.seg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Chinese/resources/segmenter/CTS20001223.1300.0451.sgm.seg.xml
+END
+CBS20001009.1000.0208.utf8.sgm.seg
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Chinese/resources/segmenter/CBS20001009.1000.0208.utf8.sgm.seg
+END
+segmenter.jar
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Chinese/resources/segmenter/segmenter.jar
+END

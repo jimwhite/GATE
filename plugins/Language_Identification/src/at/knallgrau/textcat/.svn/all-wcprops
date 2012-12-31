@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Language_Identification/src/at/knallgrau/textcat
+END
+MyProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Language_Identification/src/at/knallgrau/textcat/MyProperties.java
+END
+FingerPrintFileException.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Language_Identification/src/at/knallgrau/textcat/FingerPrintFileException.java
+END
+TextCategorizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Language_Identification/src/at/knallgrau/textcat/TextCategorizer.java
+END
+FingerPrint.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Language_Identification/src/at/knallgrau/textcat/FingerPrint.java
+END
+NGramEntryComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Language_Identification/src/at/knallgrau/textcat/NGramEntryComparator.java
+END

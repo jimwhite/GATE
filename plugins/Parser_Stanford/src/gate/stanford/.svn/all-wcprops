@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Parser_Stanford/src/gate/stanford
+END
+Parser.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Parser_Stanford/src/gate/stanford/Parser.java
+END
+DependencyMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Parser_Stanford/src/gate/stanford/DependencyMode.java
+END
+StanfordSentence.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Parser_Stanford/src/gate/stanford/StanfordSentence.java
+END
+DependencyRelation.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Parser_Stanford/src/gate/stanford/DependencyRelation.java
+END

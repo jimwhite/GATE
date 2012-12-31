@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/OpenNLP/models/english
+END
+en-ner-organization.bin
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/OpenNLP/models/english/en-ner-organization.bin
+END
+en-ner-money.bin
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/OpenNLP/models/english/en-ner-money.bin
+END
+en-ner-person.bin
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/OpenNLP/models/english/en-ner-person.bin
+END
+en-ner-location.bin
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/OpenNLP/models/english/en-ner-location.bin
+END
+en-sent.bin
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/OpenNLP/models/english/en-sent.bin
+END
+en-parser-chunking.bin
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/OpenNLP/models/english/en-parser-chunking.bin
+END
+en-ner-percentage.bin
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/OpenNLP/models/english/en-ner-percentage.bin
+END
+en-ner.conf
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/OpenNLP/models/english/en-ner.conf
+END
+en-ner-time.bin
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/OpenNLP/models/english/en-ner-time.bin
+END
+en-pos-maxent.bin
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/OpenNLP/models/english/en-pos-maxent.bin
+END
+en-ner-date.bin
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/OpenNLP/models/english/en-ner-date.bin
+END
+en-token.bin
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/OpenNLP/models/english/en-token.bin
+END
+en-chunker.bin
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/OpenNLP/models/english/en-chunker.bin
+END

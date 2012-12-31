@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/src/gate/creole/ontology/impl
+END
+OBNodeIDImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/src/gate/creole/ontology/impl/OBNodeIDImpl.java
+END
+SymmetricPropertyImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/src/gate/creole/ontology/impl/SymmetricPropertyImpl.java
+END
+ONodeIDImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/src/gate/creole/ontology/impl/ONodeIDImpl.java
+END
+SomeValuesFromRestrictionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/src/gate/creole/ontology/impl/SomeValuesFromRestrictionImpl.java
+END
+AnonymousClassImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/src/gate/creole/ontology/impl/AnonymousClassImpl.java
+END
+OClassImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/src/gate/creole/ontology/impl/OClassImpl.java
+END
+OntologyTripleStoreListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/src/gate/creole/ontology/impl/OntologyTripleStoreListener.java
+END
+OntologyService.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/src/gate/creole/ontology/impl/OntologyService.java
+END
+AnnotationPropertyImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/src/gate/creole/ontology/impl/AnnotationPropertyImpl.java
+END
+OInstanceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/src/gate/creole/ontology/impl/OInstanceImpl.java
+END
+MaxCardinalityRestrictionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/src/gate/creole/ontology/impl/MaxCardinalityRestrictionImpl.java
+END
+CardinalityRestrictionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/src/gate/creole/ontology/impl/CardinalityRestrictionImpl.java
+END
+OURIImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/src/gate/creole/ontology/impl/OURIImpl.java
+END
+PropertyValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/src/gate/creole/ontology/impl/PropertyValue.java
+END
+ResourceInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/src/gate/creole/ontology/impl/ResourceInfo.java
+END
+OntologyUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/src/gate/creole/ontology/impl/OntologyUtilities.java
+END
+TransitivePropertyImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/src/gate/creole/ontology/impl/TransitivePropertyImpl.java
+END
+LiteralOrONodeIDImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/src/gate/creole/ontology/impl/LiteralOrONodeIDImpl.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/src/gate/creole/ontology/impl/package-info.java
+END
+OntologyTripleStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/src/gate/creole/ontology/impl/OntologyTripleStore.java
+END
+Utils.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/src/gate/creole/ontology/impl/Utils.java
+END
+MinCardinalityRestrictionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/src/gate/creole/ontology/impl/MinCardinalityRestrictionImpl.java
+END
+RDFPropertyImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/src/gate/creole/ontology/impl/RDFPropertyImpl.java
+END
+OValueImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/src/gate/creole/ontology/impl/OValueImpl.java
+END
+AllValuesFromRestrictionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/src/gate/creole/ontology/impl/AllValuesFromRestrictionImpl.java
+END
+OResourceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/src/gate/creole/ontology/impl/OResourceImpl.java
+END
+DatatypePropertyImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/src/gate/creole/ontology/impl/DatatypePropertyImpl.java
+END
+Property.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/src/gate/creole/ontology/impl/Property.java
+END
+HasValueRestrictionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/src/gate/creole/ontology/impl/HasValueRestrictionImpl.java
+END
+ObjectPropertyImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/src/gate/creole/ontology/impl/ObjectPropertyImpl.java
+END
+AbstractOntologyImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/src/gate/creole/ontology/impl/AbstractOntologyImpl.java
+END

@@ -1,0 +1,7 @@
+K 13
+svn:mergeinfo
+V 226
+/gate/branches/cl-experiment/src/gate/util/TestClassificationMeasures.java:15466-15613
+/gate/branches/new-ontology-api/src/gate/util/TestContingencyTable.java:10584-11598
+/gate/trunk/src/gate/util/TestContingencyTable.java:3-7
+END

@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/corpora
+END
+EmailDocumentFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/corpora/EmailDocumentFormat.java
+END
+TestSerialCorpus.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/corpora/TestSerialCorpus.java
+END
+MimeType.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/corpora/MimeType.java
+END
+TestDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/corpora/TestDocument.java
+END
+TestDocumentStaxUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/corpora/TestDocumentStaxUtils.java
+END
+EventAwareCorpus.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/corpora/EventAwareCorpus.java
+END
+EventAwareLanguageResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/corpora/EventAwareLanguageResource.java
+END
+XmlDocumentFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/corpora/XmlDocumentFormat.java
+END
+SynchronisationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/corpora/SynchronisationException.java
+END
+CorpusImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/corpora/CorpusImpl.java
+END
+DocumentData.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/corpora/DocumentData.java
+END
+SgmlDocumentFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/corpora/SgmlDocumentFormat.java
+END
+TextualDocumentFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/corpora/TextualDocumentFormat.java
+END
+TikaFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/corpora/TikaFormat.java
+END
+EventAwareDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/corpora/EventAwareDocument.java
+END
+TestTikaFormats.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/corpora/TestTikaFormats.java
+END
+DocumentStaxUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/corpora/DocumentStaxUtils.java
+END
+DocumentContentImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/corpora/DocumentContentImpl.java
+END
+SerialCorpusImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/corpora/SerialCorpusImpl.java
+END
+DocumentImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/corpora/DocumentImpl.java
+END
+UimaDocumentFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/corpora/UimaDocumentFormat.java
+END
+TestCorpus.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/corpora/TestCorpus.java
+END
+NekoHtmlDocumentFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/corpora/NekoHtmlDocumentFormat.java
+END
+DocumentXmlUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/corpora/DocumentXmlUtils.java
+END
+RepositioningInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/corpora/RepositioningInfo.java
+END
+ObjectWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/corpora/ObjectWrapper.java
+END
+ConllDocumentFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/corpora/ConllDocumentFormat.java
+END
+DocType.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/corpora/DocType.java
+END

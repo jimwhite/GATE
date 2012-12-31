@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology_BDM_Computation/src/gate/bdmComp
+END
+ConstantParameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology_BDM_Computation/src/gate/bdmComp/ConstantParameters.java
+END
+TestBDMCompPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology_BDM_Computation/src/gate/bdmComp/TestBDMCompPlugin.java
+END
+BDMOne.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology_BDM_Computation/src/gate/bdmComp/BDMOne.java
+END
+BDMCompMain.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology_BDM_Computation/src/gate/bdmComp/BDMCompMain.java
+END

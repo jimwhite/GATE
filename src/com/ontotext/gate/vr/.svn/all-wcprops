@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/com/ontotext/gate/vr
+END
+GeneralEditorException.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/com/ontotext/gate/vr/GeneralEditorException.java
+END
+ClassNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/com/ontotext/gate/vr/ClassNode.java
+END
+IFolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/com/ontotext/gate/vr/IFolder.java
+END
+Gaze.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/com/ontotext/gate/vr/Gaze.java
+END
+OntoTreeModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/com/ontotext/gate/vr/OntoTreeModel.java
+END
+MappingTreeView.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/com/ontotext/gate/vr/MappingTreeView.java
+END

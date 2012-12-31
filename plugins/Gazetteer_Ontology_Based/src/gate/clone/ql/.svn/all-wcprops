@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Gazetteer_Ontology_Based/src/gate/clone/ql
+END
+FakeSentenceSplitter.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Gazetteer_Ontology_Based/src/gate/clone/ql/FakeSentenceSplitter.java
+END
+CATConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Gazetteer_Ontology_Based/src/gate/clone/ql/CATConstants.java
+END
+OntoRootGaz.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Gazetteer_Ontology_Based/src/gate/clone/ql/OntoRootGaz.java
+END
+Ontology2MapManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Gazetteer_Ontology_Based/src/gate/clone/ql/Ontology2MapManager.java
+END

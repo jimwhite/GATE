@@ -1,0 +1,12 @@
+K 10
+svn:ignore
+V 14
+build
+obg.jar
+
+K 13
+svn:mergeinfo
+V 127
+/gate/branches/new-ontology-api/plugins/Ontology_Based_Gazetteer:10584-11598
+/gate/trunk/plugins/Ontology_Based_Gazetteer:3-390
+END

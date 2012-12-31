@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Parser_RASP
+END
+rasp.license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Parser_RASP/rasp.license.txt
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Parser_RASP/build.xml
+END
+creole.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Parser_RASP/creole.xml
+END

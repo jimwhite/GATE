@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/annotation
+END
+EventAwareAnnotationSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/annotation/EventAwareAnnotationSet.java
+END
+AnnotationImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/annotation/AnnotationImpl.java
+END
+CorpusAnnotationDiff.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/annotation/CorpusAnnotationDiff.java
+END
+AnnotationFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/annotation/AnnotationFactory.java
+END
+DefaultAnnotationFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/annotation/DefaultAnnotationFactory.java
+END
+AnnotationSetImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/annotation/AnnotationSetImpl.java
+END
+NodeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/annotation/NodeImpl.java
+END
+ImmutableAnnotationSetImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/annotation/ImmutableAnnotationSetImpl.java
+END
+TestAnnotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/annotation/TestAnnotation.java
+END

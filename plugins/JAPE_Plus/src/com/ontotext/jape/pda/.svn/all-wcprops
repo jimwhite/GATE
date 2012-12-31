@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/JAPE_Plus/src/com/ontotext/jape/pda
+END
+SimpleSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/JAPE_Plus/src/com/ontotext/jape/pda/SimpleSet.java
+END
+FSMPDA.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/JAPE_Plus/src/com/ontotext/jape/pda/FSMPDA.java
+END
+StatePDA.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/JAPE_Plus/src/com/ontotext/jape/pda/StatePDA.java
+END
+TransitionPDA.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/JAPE_Plus/src/com/ontotext/jape/pda/TransitionPDA.java
+END

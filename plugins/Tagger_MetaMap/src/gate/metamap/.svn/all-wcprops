@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_MetaMap/src/gate/metamap
+END
+TaggerMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_MetaMap/src/gate/metamap/TaggerMode.java
+END
+AnnotNormalizeMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_MetaMap/src/gate/metamap/AnnotNormalizeMode.java
+END
+MetaMapPR.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_MetaMap/src/gate/metamap/MetaMapPR.java
+END
+OutputMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_MetaMap/src/gate/metamap/OutputMode.java
+END

@@ -1,0 +1,12 @@
+K 10
+svn:ignore
+V 22
+build
+dist
+cebuano.jar
+K 13
+svn:mergeinfo
+V 93
+/gate/branches/new-ontology-api/plugins/cebuano:10584-11598
+/gate/trunk/plugins/cebuano:3-390
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/hepple/postag
+END
+POSTagger.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/hepple/postag/POSTagger.java
+END
+Rule.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/hepple/postag/Rule.java
+END
+InvalidRuleException.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/hepple/postag/InvalidRuleException.java
+END
+Lexicon.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/hepple/postag/Lexicon.java
+END

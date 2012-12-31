@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_NP_Chunking/src/mark/chunking
+END
+ChunkingApp.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_NP_Chunking/src/mark/chunking/ChunkingApp.java
+END
+Rule.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_NP_Chunking/src/mark/chunking/Rule.java
+END
+Chunker.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_NP_Chunking/src/mark/chunking/Chunker.java
+END
+GATEWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_NP_Chunking/src/mark/chunking/GATEWrapper.java
+END

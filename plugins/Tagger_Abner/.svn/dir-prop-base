@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 18
+abner.jar
+classes
+
+K 13
+svn:mergeinfo
+V 33
+/gate/trunk/plugins/abner:3-10583
+END

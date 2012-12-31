@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_DateNormalizer/src/gate/creole/dates
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_DateNormalizer/src/gate/creole/dates/package-info.java
+END
+DateNormalizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_DateNormalizer/src/gate/creole/dates/DateNormalizer.java
+END

@@ -1,0 +1,80 @@
+10
+
+dir
+16447
+https://gate.svn.sourceforge.net/svnroot/gate/gate/tags/release-7.1/src/gate/resources
+https://gate.svn.sourceforge.net/svnroot/gate
+
+
+
+2012-11-29T20:35:25.166865Z
+16374
+ian_roberts
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c2313d9f-d313-0410-8a5c-c78e1e6c6280
+
+creole
+dir
+
+gate.ac.uk
+dir
+
+img
+dir
+
+jape
+dir
+
+jartest
+dir
+
+splash.html
+file
+
+
+
+
+2012-12-31T16:40:50.000000Z
+cd613dcd5c5a0da82c5bcee37b8c4197
+2011-05-20T22:50:09.673155Z
+13843
+hcunningham
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1561
+
+texts
+dir
+

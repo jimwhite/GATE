@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Groovy
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Groovy/README.txt
+END
+LICENCE.LGPL
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Groovy/LICENCE.LGPL
+END
+NOTICE.APACHE
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Groovy/NOTICE.APACHE
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Groovy/build.xml
+END
+LICENSE.APACHE
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Groovy/LICENSE.APACHE
+END
+creole.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Groovy/creole.xml
+END

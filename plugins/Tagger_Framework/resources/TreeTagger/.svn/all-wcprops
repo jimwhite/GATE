@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_Framework/resources/TreeTagger
+END
+TreeTagger-DE-Tokenization.gapp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_Framework/resources/TreeTagger/TreeTagger-DE-Tokenization.gapp
+END
+tree-tagger-spanish-gate
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_Framework/resources/TreeTagger/tree-tagger-spanish-gate
+END
+TreeTagger-ES-No_Tokenization.gapp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_Framework/resources/TreeTagger/TreeTagger-ES-No_Tokenization.gapp
+END
+TreeTagger-FR-No_Tokenization.gapp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_Framework/resources/TreeTagger/TreeTagger-FR-No_Tokenization.gapp
+END
+TreeTagger-EN-Tokenization.gapp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_Framework/resources/TreeTagger/TreeTagger-EN-Tokenization.gapp
+END
+tree-tagger-german-gate
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_Framework/resources/TreeTagger/tree-tagger-german-gate
+END
+fix-treetagger-lemma.jape
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_Framework/resources/TreeTagger/fix-treetagger-lemma.jape
+END
+TreeTagger-IT-Tokenization.gapp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_Framework/resources/TreeTagger/TreeTagger-IT-Tokenization.gapp
+END
+TreeTagger-FR-Tokenization.gapp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_Framework/resources/TreeTagger/TreeTagger-FR-Tokenization.gapp
+END
+TreeTagger-ES-Tokenization.gapp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_Framework/resources/TreeTagger/TreeTagger-ES-Tokenization.gapp
+END
+TreeTagger-DE-No_Tokenization.gapp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_Framework/resources/TreeTagger/TreeTagger-DE-No_Tokenization.gapp
+END
+tree-tagger-french-gate
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_Framework/resources/TreeTagger/tree-tagger-french-gate
+END
+tagger-chunker-german-nofilter
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_Framework/resources/TreeTagger/tagger-chunker-german-nofilter
+END
+TreeTagger-DE-Chunking.gapp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_Framework/resources/TreeTagger/TreeTagger-DE-Chunking.gapp
+END
+tree-tagger-french
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_Framework/resources/TreeTagger/tree-tagger-french
+END

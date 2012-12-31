@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 28
+classes
+TaggerFramework.jar
+
+K 13
+svn:mergeinfo
+V 43
+/gate/trunk/plugins/TaggerFramework:3-10583
+END

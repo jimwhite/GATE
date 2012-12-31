@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/JAPE_Plus/src/gate/jape/plus
+END
+SPTBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/JAPE_Plus/src/gate/jape/plus/SPTBase.java
+END
+Predicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/JAPE_Plus/src/gate/jape/plus/Predicate.java
+END
+Transducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/JAPE_Plus/src/gate/jape/plus/Transducer.java
+END
+SPTBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/JAPE_Plus/src/gate/jape/plus/SPTBuilder.java
+END

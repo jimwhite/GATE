@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/resources/jape/test/japefiles
+END
+Req-GATETao-8.1.2.jape
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/resources/jape/test/japefiles/Req-GATETao-8.1.2.jape
+END
+Req-GATETao-8.1.1.jape
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/resources/jape/test/japefiles/Req-GATETao-8.1.1.jape
+END
+Req-GATETao-8.1.3-op-gt-int-negative.jape
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/resources/jape/test/japefiles/Req-GATETao-8.1.3-op-gt-int-negative.jape
+END
+Req-GATETao-8.1.4-meta-rhs-string.jape
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/resources/jape/test/japefiles/Req-GATETao-8.1.4-meta-rhs-string.jape
+END
+Req-GATETao-8.1.3-op-equals-string-wquot.jape
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/resources/jape/test/japefiles/Req-GATETao-8.1.3-op-equals-string-wquot.jape
+END
+Req-GATETao-8.1.3-LHSOP_contains.jape
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/resources/jape/test/japefiles/Req-GATETao-8.1.3-LHSOP_contains.jape
+END
+Req-GATETao-8.1.3-op-gt-string.jape
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/resources/jape/test/japefiles/Req-GATETao-8.1.3-op-gt-string.jape
+END
+Req-GATETao-8.1.3-op-equals-int-natural.jape
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/resources/jape/test/japefiles/Req-GATETao-8.1.3-op-equals-int-natural.jape
+END
+Req-GATETao-8.1.3-op-gt-double-positive.jape
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/resources/jape/test/japefiles/Req-GATETao-8.1.3-op-gt-double-positive.jape
+END
+Req-GATETao-8.1.5-multipat-seq.jape
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/resources/jape/test/japefiles/Req-GATETao-8.1.5-multipat-seq.jape
+END
+Req-GATETao-8.1.3-op-ge-int-positive.jape
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/resources/jape/test/japefiles/Req-GATETao-8.1.3-op-ge-int-positive.jape
+END
+Req-GATETao-8.1.3-op-gt-double-negative.jape
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/resources/jape/test/japefiles/Req-GATETao-8.1.3-op-gt-double-negative.jape
+END
+Req-GATETao-8.1.5-multipat-nest.jape
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/resources/jape/test/japefiles/Req-GATETao-8.1.5-multipat-nest.jape
+END
+Req-GATETao-8.1.2-Negatives.jape
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/resources/jape/test/japefiles/Req-GATETao-8.1.2-Negatives.jape
+END
+Req-GATETao-8.1.3-op-equals-string-ef.jape
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/resources/jape/test/japefiles/Req-GATETao-8.1.3-op-equals-string-ef.jape
+END
+Req-GATETao-8.1.4-meta-string.jape
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/resources/jape/test/japefiles/Req-GATETao-8.1.4-meta-string.jape
+END
+Req-GATETao-8.1.3-op-ge-int-negative.jape
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/resources/jape/test/japefiles/Req-GATETao-8.1.3-op-ge-int-negative.jape
+END
+Req-GATETao-8.1.3-op-equals-int-negative.jape
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/resources/jape/test/japefiles/Req-GATETao-8.1.3-op-equals-int-negative.jape
+END
+Req-GATETao-8.1.3-op-ge-string.jape
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/resources/jape/test/japefiles/Req-GATETao-8.1.3-op-ge-string.jape
+END
+Req-GATETao-8.1.3-LHSOP_within.jape
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/resources/jape/test/japefiles/Req-GATETao-8.1.3-LHSOP_within.jape
+END
+Req-GATETao-8.1.4-meta-cleanString.jape
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/resources/jape/test/japefiles/Req-GATETao-8.1.4-meta-cleanString.jape
+END
+Req-GATETao-8.1.3-op-equals-double-positive.jape
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/resources/jape/test/japefiles/Req-GATETao-8.1.3-op-equals-double-positive.jape
+END
+Req-GATETao-8.1.3-op-ge-double-positive.jape
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/resources/jape/test/japefiles/Req-GATETao-8.1.3-op-ge-double-positive.jape
+END
+Req-GATETao-8.1.7-ctx-foreaft.jape
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/resources/jape/test/japefiles/Req-GATETao-8.1.7-ctx-foreaft.jape
+END
+Req-GATETao-8.1.7-ctx-begins.jape
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/resources/jape/test/japefiles/Req-GATETao-8.1.7-ctx-begins.jape
+END
+Req-GATETao-8.1.6-macro.jape
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/resources/jape/test/japefiles/Req-GATETao-8.1.6-macro.jape
+END
+Req-GATETao-8.1.4-meta-length.jape
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/resources/jape/test/japefiles/Req-GATETao-8.1.4-meta-length.jape
+END
+Req-GATETao-8.1.3-op-equals-double-negative.jape
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/resources/jape/test/japefiles/Req-GATETao-8.1.3-op-equals-double-negative.jape
+END
+Req-GATETao-8.1.3-op-gt-int-positive.jape
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/resources/jape/test/japefiles/Req-GATETao-8.1.3-op-gt-int-positive.jape
+END
+Req-GATETao-8.1.3-op-ge-double-negative.jape
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/resources/jape/test/japefiles/Req-GATETao-8.1.3-op-ge-double-negative.jape
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/lib
+END
+slf4j-api-1.5.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/lib/slf4j-api-1.5.6.jar
+END
+openrdf-sesame-2.6.10-onejar.jar
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/lib/openrdf-sesame-2.6.10-onejar.jar
+END
+jewelcli-0.54.jar
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/lib/jewelcli-0.54.jar
+END
+slf4j-jdk14-1.5.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/lib/slf4j-jdk14-1.5.6.jar
+END
+owlim-lite-5.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/lib/owlim-lite-5.3.jar
+END
+commons-httpclient-3.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/lib/commons-httpclient-3.1.jar
+END

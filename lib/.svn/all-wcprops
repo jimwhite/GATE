@@ -1,0 +1,323 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/lib
+END
+uk.ac.gate-gate-core-compile.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/lib/uk.ac.gate-gate-core-compile.html
+END
+jdom.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/lib/jdom.jar
+END
+poi-ooxml-schemas.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/lib/poi-ooxml-schemas.jar
+END
+pdfbox.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/lib/pdfbox.jar
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/lib/index.html
+END
+xmlunit.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/lib/xmlunit.jar
+END
+fontbox.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/lib/fontbox.jar
+END
+ivy-report.css
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/lib/ivy-report.css
+END
+spring-core.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/lib/spring-core.jar
+END
+uk.ac.gate-gate-core-test.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/lib/uk.ac.gate-gate-core-test.html
+END
+tika-core.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/lib/tika-core.jar
+END
+apache-mime4j-core.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/lib/apache-mime4j-core.jar
+END
+uk.ac.gate-gate-core-all.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/lib/uk.ac.gate-gate-core-all.html
+END
+flying-saucer-core.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/lib/flying-saucer-core.jar
+END
+commons-compress.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/lib/commons-compress.jar
+END
+stax2-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/lib/stax2-api.jar
+END
+ant.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/lib/ant.jar
+END
+java-getopt.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/lib/java-getopt.jar
+END
+lucene-core.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/lib/lucene-core.jar
+END
+commons-io.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/lib/commons-io.jar
+END
+ivy.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/lib/ivy.jar
+END
+jempbox.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/lib/jempbox.jar
+END
+junit.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/lib/junit.jar
+END
+commons-codec.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/lib/commons-codec.jar
+END
+bcprov-jdk15.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/lib/bcprov-jdk15.jar
+END
+tika-parsers.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/lib/tika-parsers.jar
+END
+uk.ac.gate-gate-core-required.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/lib/uk.ac.gate-gate-core-required.html
+END
+commons-lang.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/lib/commons-lang.jar
+END
+poi-ooxml.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/lib/poi-ooxml.jar
+END
+dom4j.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/lib/dom4j.jar
+END
+xstream.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/lib/xstream.jar
+END
+aopalliance.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/lib/aopalliance.jar
+END
+gate-asm.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/lib/gate-asm.jar
+END
+log4j.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/lib/log4j.jar
+END
+commons-logging.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/lib/commons-logging.jar
+END
+xpp3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/lib/xpp3.jar
+END
+poi-scratchpad.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/lib/poi-scratchpad.jar
+END
+apache-mime4j-dom.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/lib/apache-mime4j-dom.jar
+END
+bcmail-jdk15.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/lib/bcmail-jdk15.jar
+END
+spring-aop.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/lib/spring-aop.jar
+END
+spring-beans.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/lib/spring-beans.jar
+END
+uk.ac.gate-gate-core-default.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/lib/uk.ac.gate-gate-core-default.html
+END
+ant-launcher.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/lib/ant-launcher.jar
+END
+metadata-extractor.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/lib/metadata-extractor.jar
+END
+nekohtml.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/lib/nekohtml.jar
+END
+jaxen.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/lib/jaxen.jar
+END
+poi.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/lib/poi.jar
+END
+xmlbeans.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/lib/xmlbeans.jar
+END
+xercesImpl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/lib/xercesImpl.jar
+END
+gate-compiler-jdt.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/lib/gate-compiler-jdt.jar
+END
+uk.ac.gate-gate-core-runtime.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/lib/uk.ac.gate-gate-core-runtime.html
+END
+woodstox-core-lgpl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/lib/woodstox-core-lgpl.jar
+END
+uk.ac.gate-gate-core-master.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/lib/uk.ac.gate-gate-core-master.html
+END

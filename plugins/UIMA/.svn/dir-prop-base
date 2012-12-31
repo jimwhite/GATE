@@ -1,0 +1,14 @@
+K 10
+svn:ignore
+V 37
+classes
+uima-gate.jar
+TEST-*
+vns-tmp
+
+K 13
+svn:mergeinfo
+V 87
+/gate/branches/new-ontology-api/plugins/uima:10584-11598
+/gate/trunk/plugins/uima:3-390
+END

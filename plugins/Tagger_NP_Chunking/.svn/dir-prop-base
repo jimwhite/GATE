@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 19
+classes
+Chunker.jar
+K 13
+svn:mergeinfo
+V 101
+/gate/branches/new-ontology-api/plugins/NP_Chunking:10584-11598
+/gate/trunk/plugins/NP_Chunking:3-390
+END

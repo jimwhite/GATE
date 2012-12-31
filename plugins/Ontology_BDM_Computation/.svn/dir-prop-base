@@ -1,0 +1,12 @@
+K 10
+svn:ignore
+V 22
+BDMCompMain.jar
+build
+
+K 13
+svn:mergeinfo
+V 107
+/gate/branches/new-ontology-api/plugins/bdmComputation:10584-11598
+/gate/trunk/plugins/bdmComputation:3-390
+END

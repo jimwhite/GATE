@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 10
+debug.jar
+
+K 13
+svn:mergeinfo
+V 68
+/gate/branches/new-ontology-api/lib:10584-11598
+/gate/trunk/lib:3-16
+END

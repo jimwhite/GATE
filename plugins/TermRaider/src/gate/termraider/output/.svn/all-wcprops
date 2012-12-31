@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/TermRaider/src/gate/termraider/output
+END
+CloudGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/TermRaider/src/gate/termraider/output/CloudGenerator.java
+END
+CsvGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/TermRaider/src/gate/termraider/output/CsvGenerator.java
+END
+PairCsvGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/TermRaider/src/gate/termraider/output/PairCsvGenerator.java
+END

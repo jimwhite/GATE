@@ -1,0 +1,467 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Romanian/resources/Gazeteer
+END
+cdg.lst
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Romanian/resources/Gazeteer/cdg.lst
+END
+loc_hint.lst
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Romanian/resources/Gazeteer/loc_hint.lst
+END
+spur_ident.lst
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Romanian/resources/Gazeteer/spur_ident.lst
+END
+village.lst
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Romanian/resources/Gazeteer/village.lst
+END
+province.lst
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Romanian/resources/Gazeteer/province.lst
+END
+organization.lst
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Romanian/resources/Gazeteer/organization.lst
+END
+govern_key.lst
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Romanian/resources/Gazeteer/govern_key.lst
+END
+person_male.lst
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Romanian/resources/Gazeteer/person_male.lst
+END
+loc_relig.lst
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Romanian/resources/Gazeteer/loc_relig.lst
+END
+person_full.lst
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Romanian/resources/Gazeteer/person_full.lst
+END
+org_fiction.lst
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Romanian/resources/Gazeteer/org_fiction.lst
+END
+year.lst
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Romanian/resources/Gazeteer/year.lst
+END
+ministry.lst
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Romanian/resources/Gazeteer/ministry.lst
+END
+loc_postkey.lst
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Romanian/resources/Gazeteer/loc_postkey.lst
+END
+currency_sufix.lst
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Romanian/resources/Gazeteer/currency_sufix.lst
+END
+times.lst
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Romanian/resources/Gazeteer/times.lst
+END
+org_pre.lst
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Romanian/resources/Gazeteer/org_pre.lst
+END
+region_fiction.lst
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Romanian/resources/Gazeteer/region_fiction.lst
+END
+numbers.lst
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Romanian/resources/Gazeteer/numbers.lst
+END
+org_base.lst
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Romanian/resources/Gazeteer/org_base.lst
+END
+festival_fiction.lst
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Romanian/resources/Gazeteer/festival_fiction.lst
+END
+job_name.lst
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Romanian/resources/Gazeteer/job_name.lst
+END
+city_ext.lst
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Romanian/resources/Gazeteer/city_ext.lst
+END
+list_relig.def
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Romanian/resources/Gazeteer/list_relig.def
+END
+department.lst
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Romanian/resources/Gazeteer/department.lst
+END
+ages.lst
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Romanian/resources/Gazeteer/ages.lst
+END
+person.lst
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Romanian/resources/Gazeteer/person.lst
+END
+ambigwords.lst
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Romanian/resources/Gazeteer/ambigwords.lst
+END
+cityext.lst
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Romanian/resources/Gazeteer/cityext.lst
+END
+region_ext.lst
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Romanian/resources/Gazeteer/region_ext.lst
+END
+title.lst
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Romanian/resources/Gazeteer/title.lst
+END
+person_female_ext.lst
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Romanian/resources/Gazeteer/person_female_ext.lst
+END
+time_ampm.lst
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Romanian/resources/Gazeteer/time_ampm.lst
+END
+monthRoman.lst
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Romanian/resources/Gazeteer/monthRoman.lst
+END
+personcap.lst
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Romanian/resources/Gazeteer/personcap.lst
+END
+loc_key.lst
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Romanian/resources/Gazeteer/loc_key.lst
+END
+org_ending.lst
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Romanian/resources/Gazeteer/org_ending.lst
+END
+city.lst
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Romanian/resources/Gazeteer/city.lst
+END
+list_nov.def
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Romanian/resources/Gazeteer/list_nov.def
+END
+region_relig.lst
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Romanian/resources/Gazeteer/region_relig.lst
+END
+time_key.lst
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Romanian/resources/Gazeteer/time_key.lst
+END
+football_team.lst
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Romanian/resources/Gazeteer/football_team.lst
+END
+ordinal.lst
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Romanian/resources/Gazeteer/ordinal.lst
+END
+loc_post-direction.lst
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Romanian/resources/Gazeteer/loc_post-direction.lst
+END
+government.lst
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Romanian/resources/Gazeteer/government.lst
+END
+currency_unit.lst
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Romanian/resources/Gazeteer/currency_unit.lst
+END
+region.lst
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Romanian/resources/Gazeteer/region.lst
+END
+date_pre_pre.lst
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Romanian/resources/Gazeteer/date_pre_pre.lst
+END
+person_female.lst
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Romanian/resources/Gazeteer/person_female.lst
+END
+festival.lst
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Romanian/resources/Gazeteer/festival.lst
+END
+country_ext.lst
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Romanian/resources/Gazeteer/country_ext.lst
+END
+timezone.lst
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Romanian/resources/Gazeteer/timezone.lst
+END
+organisation_eliminate.lst
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Romanian/resources/Gazeteer/organisation_eliminate.lst
+END
+company.lst
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Romanian/resources/Gazeteer/company.lst
+END
+country_adj.lst
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Romanian/resources/Gazeteer/country_adj.lst
+END
+month.lst
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Romanian/resources/Gazeteer/month.lst
+END
+street.lst
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Romanian/resources/Gazeteer/street.lst
+END
+org_key.lst
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Romanian/resources/Gazeteer/org_key.lst
+END
+river_relig.lst
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Romanian/resources/Gazeteer/river_relig.lst
+END
+region_Ro.lst
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Romanian/resources/Gazeteer/region_Ro.lst
+END
+ident_prekey.lst
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Romanian/resources/Gazeteer/ident_prekey.lst
+END
+list_news.def
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Romanian/resources/Gazeteer/list_news.def
+END
+river.lst
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Romanian/resources/Gazeteer/river.lst
+END
+person_relig.lst
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Romanian/resources/Gazeteer/person_relig.lst
+END
+mountain.lst
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Romanian/resources/Gazeteer/mountain.lst
+END
+person_nick.lst
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Romanian/resources/Gazeteer/person_nick.lst
+END
+country_relig.lst
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Romanian/resources/Gazeteer/country_relig.lst
+END
+hours.lst
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Romanian/resources/Gazeteer/hours.lst
+END
+date_pre.lst
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Romanian/resources/Gazeteer/date_pre.lst
+END
+province_ext.lst
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Romanian/resources/Gazeteer/province_ext.lst
+END
+country.lst
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Romanian/resources/Gazeteer/country.lst
+END
+loc_pre-direction.lst
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Romanian/resources/Gazeteer/loc_pre-direction.lst
+END
+water.lst
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Romanian/resources/Gazeteer/water.lst
+END
+person_male_ext.lst
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Romanian/resources/Gazeteer/person_male_ext.lst
+END
+org_post.lst
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Romanian/resources/Gazeteer/org_post.lst
+END
+day.lst
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Romanian/resources/Gazeteer/day.lst
+END
+list.lst
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Lang_Romanian/resources/Gazeteer/list.lst
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/TermRaider/src/gate/termraider/bank/modes
+END
+IdfCalculation.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/TermRaider/src/gate/termraider/bank/modes/IdfCalculation.java
+END
+MergingMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/TermRaider/src/gate/termraider/bank/modes/MergingMode.java
+END
+TfCalculation.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/TermRaider/src/gate/termraider/bank/modes/TfCalculation.java
+END

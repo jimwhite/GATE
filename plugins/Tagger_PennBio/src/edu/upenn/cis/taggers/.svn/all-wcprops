@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_PennBio/src/edu/upenn/cis/taggers
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_PennBio/src/edu/upenn/cis/taggers/Constants.java
+END
+LoadModelException.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_PennBio/src/edu/upenn/cis/taggers/LoadModelException.java
+END
+Tagger.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_PennBio/src/edu/upenn/cis/taggers/Tagger.java
+END
+Tag.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_PennBio/src/edu/upenn/cis/taggers/Tag.java
+END
+Model.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_PennBio/src/edu/upenn/cis/taggers/Model.java
+END
+TagList.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_PennBio/src/edu/upenn/cis/taggers/TagList.java
+END

@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/hepple/postag/rules
+END
+Rule_RBIGRAM.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/hepple/postag/rules/Rule_RBIGRAM.java
+END
+Rule_CURWD.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/hepple/postag/rules/Rule_CURWD.java
+END
+Rule_PREV2WD.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/hepple/postag/rules/Rule_PREV2WD.java
+END
+Rule_NEXT2WD.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/hepple/postag/rules/Rule_NEXT2WD.java
+END
+Rule_LBIGRAM.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/hepple/postag/rules/Rule_LBIGRAM.java
+END
+Rule_UNKNOWN.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/hepple/postag/rules/Rule_UNKNOWN.java
+END
+Rule_PREV1OR2TAG.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/hepple/postag/rules/Rule_PREV1OR2TAG.java
+END
+Rule_NEXT1OR2TAG.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/hepple/postag/rules/Rule_NEXT1OR2TAG.java
+END
+Rule_PREVTAG.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/hepple/postag/rules/Rule_PREVTAG.java
+END
+Rule_WDAND2AFT.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/hepple/postag/rules/Rule_WDAND2AFT.java
+END
+Rule_NEXTTAG.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/hepple/postag/rules/Rule_NEXTTAG.java
+END
+Rule_WDAND2BFR.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/hepple/postag/rules/Rule_WDAND2BFR.java
+END
+Rule_NEXTWD.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/hepple/postag/rules/Rule_NEXTWD.java
+END
+Rule_PREVWD.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/hepple/postag/rules/Rule_PREVWD.java
+END
+Rule_PREV1OR2WD.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/hepple/postag/rules/Rule_PREV1OR2WD.java
+END
+Rule_NEXT1OR2WD.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/hepple/postag/rules/Rule_NEXT1OR2WD.java
+END
+Rule_WDAND2TAGAFT.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/hepple/postag/rules/Rule_WDAND2TAGAFT.java
+END
+Rule_WDAND2TAGBFR.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/hepple/postag/rules/Rule_WDAND2TAGBFR.java
+END
+Rule_PREV2TAG.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/hepple/postag/rules/Rule_PREV2TAG.java
+END
+Rule_NEXT2TAG.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/hepple/postag/rules/Rule_NEXT2TAG.java
+END
+Rule_PREV1OR2OR3TAG.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/hepple/postag/rules/Rule_PREV1OR2OR3TAG.java
+END
+Rule_NEXT1OR2OR3TAG.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/hepple/postag/rules/Rule_NEXT1OR2OR3TAG.java
+END
+Rule_SURROUNDTAG.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/hepple/postag/rules/Rule_SURROUNDTAG.java
+END
+Rule_UNRESTRICTED.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/hepple/postag/rules/Rule_UNRESTRICTED.java
+END
+Rule_WDPREVTAG.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/hepple/postag/rules/Rule_WDPREVTAG.java
+END
+Rule_WDNEXTTAG.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/hepple/postag/rules/Rule_WDNEXTTAG.java
+END
+Rule_PREVBIGRAM.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/hepple/postag/rules/Rule_PREVBIGRAM.java
+END
+Rule_NEXTBIGRAM.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/hepple/postag/rules/Rule_NEXTBIGRAM.java
+END

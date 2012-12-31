@@ -1,0 +1,7 @@
+K 13
+svn:mergeinfo
+V 214
+/gate/branches/cl-experiment/src/gate/jape/functest/TestConstraints.java:15466-15613
+/gate/branches/new-ontology-api/src/gate/jape/TestConstraints.java:10584-11598
+/gate/trunk/src/gate/jape/TestConstraints.java:3-7
+END

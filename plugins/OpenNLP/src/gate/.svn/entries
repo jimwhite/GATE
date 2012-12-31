@@ -1,0 +1,31 @@
+10
+
+dir
+16447
+https://gate.svn.sourceforge.net/svnroot/gate/gate/tags/release-7.1/plugins/OpenNLP/src/gate
+https://gate.svn.sourceforge.net/svnroot/gate
+
+
+
+2012-11-14T12:52:58.767908Z
+16275
+adamfunk
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c2313d9f-d313-0410-8a5c-c78e1e6c6280
+
+opennlp
+dir
+

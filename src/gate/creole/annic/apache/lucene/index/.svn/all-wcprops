@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/annic/apache/lucene/index
+END
+MultipleTermPositions.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/annic/apache/lucene/index/MultipleTermPositions.java
+END
+DocumentWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/annic/apache/lucene/index/DocumentWriter.java
+END
+TermEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/annic/apache/lucene/index/TermEnum.java
+END
+SegmentMerger.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/annic/apache/lucene/index/SegmentMerger.java
+END
+Term.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/annic/apache/lucene/index/Term.java
+END
+CompoundFileReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/annic/apache/lucene/index/CompoundFileReader.java
+END
+TermDocs.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/annic/apache/lucene/index/TermDocs.java
+END
+SegmentTermVector.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/annic/apache/lucene/index/SegmentTermVector.java
+END
+SegmentInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/annic/apache/lucene/index/SegmentInfo.java
+END
+SegmentTermEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/annic/apache/lucene/index/SegmentTermEnum.java
+END
+TermPositions.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/annic/apache/lucene/index/TermPositions.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/annic/apache/lucene/index/package.html
+END
+MultiReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/annic/apache/lucene/index/MultiReader.java
+END
+TermInfosReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/annic/apache/lucene/index/TermInfosReader.java
+END
+FieldsReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/annic/apache/lucene/index/FieldsReader.java
+END
+CompoundFileWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/annic/apache/lucene/index/CompoundFileWriter.java
+END
+SegmentTermDocs.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/annic/apache/lucene/index/SegmentTermDocs.java
+END
+TermPositionVector.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/annic/apache/lucene/index/TermPositionVector.java
+END
+SegmentReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/annic/apache/lucene/index/SegmentReader.java
+END
+IndexReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/annic/apache/lucene/index/IndexReader.java
+END
+SegmentInfos.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/annic/apache/lucene/index/SegmentInfos.java
+END
+SegmentMergeQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/annic/apache/lucene/index/SegmentMergeQueue.java
+END
+FieldsWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/annic/apache/lucene/index/FieldsWriter.java
+END
+TermInfosWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/annic/apache/lucene/index/TermInfosWriter.java
+END
+FieldInfos.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/annic/apache/lucene/index/FieldInfos.java
+END
+SegmentTermPositions.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/annic/apache/lucene/index/SegmentTermPositions.java
+END
+FieldInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/annic/apache/lucene/index/FieldInfo.java
+END
+TermVectorsReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/annic/apache/lucene/index/TermVectorsReader.java
+END
+TermFreqVector.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/annic/apache/lucene/index/TermFreqVector.java
+END
+IndexWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/annic/apache/lucene/index/IndexWriter.java
+END
+FilterIndexReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/annic/apache/lucene/index/FilterIndexReader.java
+END
+TermInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/annic/apache/lucene/index/TermInfo.java
+END
+TermVectorsWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/annic/apache/lucene/index/TermVectorsWriter.java
+END
+SegmentMergeInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/annic/apache/lucene/index/SegmentMergeInfo.java
+END

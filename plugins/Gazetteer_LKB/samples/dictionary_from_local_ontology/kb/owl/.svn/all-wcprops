@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Gazetteer_LKB/samples/dictionary_from_local_ontology/kb/owl
+END
+kimso.owl
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Gazetteer_LKB/samples/dictionary_from_local_ontology/kb/owl/kimso.owl
+END
+protons.owl
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Gazetteer_LKB/samples/dictionary_from_local_ontology/kb/owl/protons.owl
+END
+protont.owl
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Gazetteer_LKB/samples/dictionary_from_local_ontology/kb/owl/protont.owl
+END
+protonu.owl
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Gazetteer_LKB/samples/dictionary_from_local_ontology/kb/owl/protonu.owl
+END
+kimlo.owl
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Gazetteer_LKB/samples/dictionary_from_local_ontology/kb/owl/kimlo.owl
+END
+owl.rdfs
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Gazetteer_LKB/samples/dictionary_from_local_ontology/kb/owl/owl.rdfs
+END
+protonkm.owl
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Gazetteer_LKB/samples/dictionary_from_local_ontology/kb/owl/protonkm.owl
+END

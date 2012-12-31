@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/queries/default/notused
+END
+getClassesTopNamedNoW3_broken
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/queries/default/notused/getClassesTopNamedNoW3_broken
+END
+getClassesTopAllNopartial
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/queries/default/notused/getClassesTopAllNopartial
+END
+getClassesTopBlank_broken
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology/queries/default/notused/getClassesTopBlank_broken
+END

@@ -1,0 +1,15 @@
+K 13
+svn:mergeinfo
+V 208
+/gate/branches/cl-experiment/src/gate/jape/functest/BaseJapeTests.java:15466-15613
+/gate/branches/new-ontology-api/src/gate/jape/BaseJapeTests.java:10584-11598
+/gate/trunk/src/gate/jape/BaseJapeTests.java:3-7
+K 13
+svn:eol-style
+V 6
+native
+K 12
+svn:keywords
+V 2
+Id
+END

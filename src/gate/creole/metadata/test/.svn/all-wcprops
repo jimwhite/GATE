@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/metadata/test
+END
+TestSuperclassProcessingResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/metadata/test/TestSuperclassProcessingResource.java
+END
+TestUnannotatedProcessingResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/metadata/test/TestUnannotatedProcessingResource.java
+END
+TestSubclassProcessingResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/metadata/test/TestSubclassProcessingResource.java
+END
+TestAnnotatedProcessingResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/creole/metadata/test/TestAnnotatedProcessingResource.java
+END

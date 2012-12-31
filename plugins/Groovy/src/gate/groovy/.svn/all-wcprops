@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Groovy/src/gate/groovy
+END
+ScriptableControllerPersistence.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Groovy/src/gate/groovy/ScriptableControllerPersistence.java
+END
+ScriptPR.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Groovy/src/gate/groovy/ScriptPR.java
+END
+Grootils.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Groovy/src/gate/groovy/Grootils.groovy
+END
+GateGroovyMethods.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Groovy/src/gate/groovy/GateGroovyMethods.java
+END
+ScriptableController.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Groovy/src/gate/groovy/ScriptableController.groovy
+END
+GroovySupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Groovy/src/gate/groovy/GroovySupport.java
+END
+script-pr.png
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Groovy/src/gate/groovy/script-pr.png
+END
+scriptable-controller.png
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Groovy/src/gate/groovy/scriptable-controller.png
+END

@@ -1,0 +1,8 @@
+K 13
+svn:mergeinfo
+V 380
+/gate/branches/new-ontology-api/plugins/Ontology/queries/default/hasInstanceDirectFor:10584-11505,11578-11598
+/gate/branches/plugin-Ontology-post-6.1/queries/default/hasInstanceDirectFor:13880-13964,13966-14232
+/gate/trunk/plugins/OWLIM3Ontology/queries/default/hasInstanceDirectFor:10584-10802
+/gate/trunk/plugins/Ontology/queries/default/hasInstanceDirectFor:3-10583,11464-11551
+END

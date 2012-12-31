@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology_Tools/src/gate/creole/ontology/ocat
+END
+OntologyViewerOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology_Tools/src/gate/creole/ontology/ocat/OntologyViewerOptions.java
+END
+AnnotationEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology_Tools/src/gate/creole/ontology/ocat/AnnotationEditor.java
+END
+CheckRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology_Tools/src/gate/creole/ontology/ocat/CheckRenderer.java
+END
+FeaturesEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology_Tools/src/gate/creole/ontology/ocat/FeaturesEditor.java
+END
+OntologyTreePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology_Tools/src/gate/creole/ontology/ocat/OntologyTreePanel.java
+END
+AnnotationAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology_Tools/src/gate/creole/ontology/ocat/AnnotationAction.java
+END
+OntologyTreeListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology_Tools/src/gate/creole/ontology/ocat/OntologyTreeListener.java
+END
+Utils.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology_Tools/src/gate/creole/ontology/ocat/Utils.java
+END
+ComboRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology_Tools/src/gate/creole/ontology/ocat/ComboRenderer.java
+END
+OntologyViewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Ontology_Tools/src/gate/creole/ontology/ocat/OntologyViewer.java
+END

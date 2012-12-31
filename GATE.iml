@@ -1,0 +1,883 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="jar://$MODULE_DIR$/lib/jdom.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/junit.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/ant.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/ant-launcher.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/plugins/Gazetteer_Ontology_Based/lib/oro-2.0.8.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/plugins/WordNet/lib/jwnl.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/plugins/LingPipe/lib/lingpipe-4.0.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/plugins/Ontology/lib/commons-httpclient-3.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/plugins/Ontology/lib/jewelcli-0.54.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/plugins/Ontology/lib/slf4j-api-1.5.6.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/plugins/Ontology/lib/slf4j-jdk14-1.5.6.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/plugins/OpenNLP/lib/opennlp-tools-1.5.2-incubating.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/gate-compiler-jdt.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/xercesImpl.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/plugins/Learning/lib/weka.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/plugins/Web_Crawler_Websphinx/lib/websphinx.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/plugins/Keyphrase_Extraction_Algorithm/lib/weka-3.4.6.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/plugins/Machine_Learning/lib/troveForMaxent.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/plugins/Parser_SUPPLE/lib/compiler.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/plugins/Parser_SUPPLE/lib/jpl.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/plugins/Parser_SUPPLE/lib/plcafe.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/plugins/UIMA/lib/activation.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/plugins/UIMA/lib/axis.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/plugins/UIMA/lib/commons-discovery-0.2.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/plugins/UIMA/lib/commons-logging-1.0.4.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/plugins/UIMA/lib/jaxrpc.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/plugins/UIMA/lib/jVinci.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/plugins/UIMA/lib/mail.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/plugins/UIMA/lib/saaj.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/plugins/UIMA/lib/uima-adapter-soap.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/plugins/UIMA/lib/uima-adapter-vinci.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/plugins/UIMA/lib/uima-core.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/plugins/UIMA/lib/uima-cpe.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/plugins/UIMA/lib/uima-examples.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/plugins/UIMA/lib/uima-document-annotation.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/plugins/UIMA/lib/uima-tools.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/plugins/Parser_Stanford/lib/stanford-parser.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/gate-asm.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/plugins/Groovy/lib/groovy-all-1.7.6.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/plugins/JAPE_Plus/lib/colt-1.2.0-free.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/spring-core.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/ivy.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/pdfbox.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/jempbox.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/tika-core.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/xstream.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/apache-mime4j-core.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/xpp3.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/nekohtml.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/xmlunit.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/xmlbeans.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/commons-compress.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/bcmail-jdk15.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/commons-io.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/poi-ooxml.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/tika-parsers.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/log4j.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/poi-ooxml-schemas.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/jaxen.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/aopalliance.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/apache-mime4j-dom.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/commons-logging.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/java-getopt.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/commons-lang.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/bcprov-jdk15.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/poi-scratchpad.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/dom4j.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/lucene-core.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/fontbox.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/spring-aop.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/commons-codec.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/poi.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/spring-beans.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/metadata-extractor.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/woodstox-core-lgpl.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/stax2-api.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/plugins/Ontology/lib/openrdf-sesame-2.6.10-onejar.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/plugins/Ontology/lib/owlim-lite-5.3.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/flying-saucer-core.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/plugins/OpenNLP/lib/opennlp-maxent-3.0.2-incubating.jar!/" />
+    <conelement value="GROOVY_SUPPORT" />
+    <src_description expected_position="0">
+      <src_folder value="file://$MODULE_DIR$/src" expected_position="0" />
+      <src_folder value="file://$MODULE_DIR$/plugins/Tools/src" expected_position="1" />
+      <src_folder value="file://$MODULE_DIR$/plugins/Coref_Tools/src" expected_position="2" />
+      <src_folder value="file://$MODULE_DIR$/plugins/JAPE_Plus/src" expected_position="3" />
+      <src_folder value="file://$MODULE_DIR$/plugins/Groovy/src" expected_position="4" />
+      <src_folder value="file://$MODULE_DIR$/plugins/OpenNLP/src" expected_position="5" />
+      <src_folder value="file://$MODULE_DIR$/plugins/Tagger_Framework/src" expected_position="6" />
+      <src_folder value="file://$MODULE_DIR$/plugins/Gazetteer_Ontology_Based/src" expected_position="7" />
+      <src_folder value="file://$MODULE_DIR$/plugins/Parser_Stanford/src" expected_position="8" />
+      <src_folder value="file://$MODULE_DIR$/plugins/Lang_Chinese/src" expected_position="9" />
+      <src_folder value="file://$MODULE_DIR$/plugins/UIMA/src" expected_position="10" />
+      <src_folder value="file://$MODULE_DIR$/plugins/Tagger_Chemistry/src" expected_position="11" />
+      <src_folder value="file://$MODULE_DIR$/plugins/Parser_Minipar/src" expected_position="12" />
+      <src_folder value="file://$MODULE_DIR$/plugins/Lang_Romanian/src" expected_position="13" />
+      <src_folder value="file://$MODULE_DIR$/plugins/Lang_Hindi/src" expected_position="14" />
+      <src_folder value="file://$MODULE_DIR$/plugins/Keyphrase_Extraction_Algorithm/src" expected_position="15" />
+      <src_folder value="file://$MODULE_DIR$/plugins/Web_Crawler_Websphinx/src" expected_position="16" />
+      <src_folder value="file://$MODULE_DIR$/plugins/Parser_RASP/src" expected_position="17" />
+      <src_folder value="file://$MODULE_DIR$/plugins/Ontology_Tools/src" expected_position="18" />
+      <src_folder value="file://$MODULE_DIR$/plugins/Tagger_NP_Chunking/src" expected_position="19" />
+      <src_folder value="file://$MODULE_DIR$/plugins/Lang_Arabic/src" expected_position="20" />
+      <src_folder value="file://$MODULE_DIR$/plugins/Lang_Cebuano/src" expected_position="21" />
+      <src_folder value="file://$MODULE_DIR$/plugins/Alignment/src" expected_position="22" />
+      <src_folder value="file://$MODULE_DIR$/plugins/Learning/src" expected_position="23" />
+      <src_folder value="file://$MODULE_DIR$/plugins/Stemmer_Snowball/src" expected_position="24" />
+      <src_folder value="file://$MODULE_DIR$/plugins/WordNet/src" expected_position="25" />
+      <src_folder value="file://$MODULE_DIR$/plugins/LingPipe/src" expected_position="26" />
+      <src_folder value="file://$MODULE_DIR$/plugins/Ontology/src" expected_position="27" />
+      <src_folder value="file://$MODULE_DIR$/plugins/Format_PubMed/src" expected_position="28" />
+      <src_folder value="file://$MODULE_DIR$/plugins/Language_Identification/src" expected_position="29" />
+      <src_folder value="file://$MODULE_DIR$/plugins/Tagger_Numbers/src" expected_position="30" />
+      <src_folder value="file://$MODULE_DIR$/plugins/TermRaider/src" expected_position="31" />
+      <src_folder value="GROOVY_DSL_SUPPORT" expected_position="73" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/plugins/Tools/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/plugins/Coref_Tools/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/plugins/JAPE_Plus/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/plugins/Groovy/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/plugins/OpenNLP/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/plugins/Tagger_Framework/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/plugins/Gazetteer_Ontology_Based/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/plugins/Parser_Stanford/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/plugins/Lang_Chinese/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/plugins/UIMA/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/plugins/Tagger_Chemistry/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/plugins/Parser_Minipar/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/plugins/Lang_Romanian/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/plugins/Lang_Hindi/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/plugins/Keyphrase_Extraction_Algorithm/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/plugins/Web_Crawler_Websphinx/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/plugins/Parser_RASP/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/plugins/Ontology_Tools/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/plugins/Tagger_NP_Chunking/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/plugins/Lang_Arabic/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/plugins/Lang_Cebuano/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/plugins/Alignment/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/plugins/Learning/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/plugins/Stemmer_Snowball/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/plugins/WordNet/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/plugins/LingPipe/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/plugins/Ontology/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/plugins/Format_PubMed/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/plugins/Language_Identification/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/plugins/Tagger_Numbers/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/plugins/TermRaider/src" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library name="jdom.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/jdom.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="junit.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/junit.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="ant.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/ant.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="ant-launcher.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/ant-launcher.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="oro-2.0.8.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/plugins/Gazetteer_Ontology_Based/lib/oro-2.0.8.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jwnl.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/plugins/WordNet/lib/jwnl.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="lingpipe-4.0.1.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/plugins/LingPipe/lib/lingpipe-4.0.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-httpclient-3.1.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/plugins/Ontology/lib/commons-httpclient-3.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jewelcli-0.54.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/plugins/Ontology/lib/jewelcli-0.54.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="slf4j-api-1.5.6.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/plugins/Ontology/lib/slf4j-api-1.5.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="slf4j-jdk14-1.5.6.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/plugins/Ontology/lib/slf4j-jdk14-1.5.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="opennlp-tools-1.5.2-incubating.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/plugins/OpenNLP/lib/opennlp-tools-1.5.2-incubating.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="module-library" exported="">
+      <library name="gate-compiler-jdt.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/gate-compiler-jdt.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="xercesImpl.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/xercesImpl.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="weka.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/plugins/Learning/lib/weka.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="websphinx.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/plugins/Web_Crawler_Websphinx/lib/websphinx.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="weka-3.4.6.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/plugins/Keyphrase_Extraction_Algorithm/lib/weka-3.4.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="troveForMaxent.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/plugins/Machine_Learning/lib/troveForMaxent.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="compiler.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/plugins/Parser_SUPPLE/lib/compiler.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jpl.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/plugins/Parser_SUPPLE/lib/jpl.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="plcafe.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/plugins/Parser_SUPPLE/lib/plcafe.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="activation.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/plugins/UIMA/lib/activation.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="axis.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/plugins/UIMA/lib/axis.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-discovery-0.2.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/plugins/UIMA/lib/commons-discovery-0.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-logging-1.0.4.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/plugins/UIMA/lib/commons-logging-1.0.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jaxrpc.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/plugins/UIMA/lib/jaxrpc.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jVinci.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/plugins/UIMA/lib/jVinci.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="mail.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/plugins/UIMA/lib/mail.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="saaj.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/plugins/UIMA/lib/saaj.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="uima-adapter-soap.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/plugins/UIMA/lib/uima-adapter-soap.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="uima-adapter-vinci.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/plugins/UIMA/lib/uima-adapter-vinci.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="uima-core.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/plugins/UIMA/lib/uima-core.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="uima-cpe.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/plugins/UIMA/lib/uima-cpe.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="uima-examples.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/plugins/UIMA/lib/uima-examples.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="uima-document-annotation.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/plugins/UIMA/lib/uima-document-annotation.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="uima-tools.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/plugins/UIMA/lib/uima-tools.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="stanford-parser.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/plugins/Parser_Stanford/lib/stanford-parser.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="gate-asm.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/gate-asm.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" exported="" name="GROOVY_SUPPORT" level="application" />
+    <orderEntry type="module-library">
+      <library name="groovy-all-1.7.6.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/plugins/Groovy/lib/groovy-all-1.7.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="colt-1.2.0-free.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/plugins/JAPE_Plus/lib/colt-1.2.0-free.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="spring-core.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/spring-core.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="ivy.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/ivy.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="pdfbox.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/pdfbox.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="jempbox.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/jempbox.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="tika-core.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/tika-core.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="xstream.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/xstream.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="apache-mime4j-core.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/apache-mime4j-core.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="xpp3.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/xpp3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="nekohtml.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/nekohtml.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="xmlunit.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/xmlunit.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="xmlbeans.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/xmlbeans.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="commons-compress.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/commons-compress.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="bcmail-jdk15.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/bcmail-jdk15.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="commons-io.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/commons-io.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="poi-ooxml.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/poi-ooxml.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="tika-parsers.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/tika-parsers.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="log4j.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/log4j.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="poi-ooxml-schemas.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/poi-ooxml-schemas.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="jaxen.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/jaxen.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="aopalliance.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/aopalliance.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="apache-mime4j-dom.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/apache-mime4j-dom.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="commons-logging.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/commons-logging.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="java-getopt.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/java-getopt.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="commons-lang.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/commons-lang.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="bcprov-jdk15.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/bcprov-jdk15.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="poi-scratchpad.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/poi-scratchpad.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="dom4j.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/dom4j.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="lucene-core.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/lucene-core.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="fontbox.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/fontbox.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="spring-aop.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/spring-aop.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="commons-codec.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/commons-codec.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="poi.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/poi.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="spring-beans.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/spring-beans.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="metadata-extractor.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/metadata-extractor.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="woodstox-core-lgpl.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/woodstox-core-lgpl.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="stax2-api.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/stax2-api.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="openrdf-sesame-2.6.10-onejar.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/plugins/Ontology/lib/openrdf-sesame-2.6.10-onejar.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="owlim-lite-5.3.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/plugins/Ontology/lib/owlim-lite-5.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="flying-saucer-core.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/flying-saucer-core.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="opennlp-maxent-3.0.2-incubating.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/plugins/OpenNLP/lib/opennlp-maxent-3.0.2-incubating.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
+

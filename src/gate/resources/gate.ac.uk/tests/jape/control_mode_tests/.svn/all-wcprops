@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/resources/gate.ac.uk/tests/jape/control_mode_tests
+END
+brill_test.jape
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/resources/gate.ac.uk/tests/jape/control_mode_tests/brill_test.jape
+END
+appelt_test.jape
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/resources/gate.ac.uk/tests/jape/control_mode_tests/appelt_test.jape
+END
+all_mode_test.jape
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/resources/gate.ac.uk/tests/jape/control_mode_tests/all_mode_test.jape
+END

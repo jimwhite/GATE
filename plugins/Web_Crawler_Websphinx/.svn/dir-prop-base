@@ -1,0 +1,12 @@
+K 10
+svn:ignore
+V 20
+build
+dist
+crawl.jar
+K 13
+svn:mergeinfo
+V 89
+/gate/branches/new-ontology-api/plugins/crawl:10584-11598
+/gate/trunk/plugins/crawl:3-390
+END

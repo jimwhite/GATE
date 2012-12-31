@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_PennBio/src/edu/upenn/cis/taggers/variation
+END
+VariationRegexTrieLexiconMembership.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_PennBio/src/edu/upenn/cis/taggers/variation/VariationRegexTrieLexiconMembership.java
+END
+VariationSentence2TokenSequence.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_PennBio/src/edu/upenn/cis/taggers/variation/VariationSentence2TokenSequence.java
+END
+VariationTagger.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_PennBio/src/edu/upenn/cis/taggers/variation/VariationTagger.java
+END
+VariationSegmentationEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_PennBio/src/edu/upenn/cis/taggers/variation/VariationSegmentationEvaluator.java
+END
+VariationTrainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Tagger_PennBio/src/edu/upenn/cis/taggers/variation/VariationTrainer.java
+END

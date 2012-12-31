@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Copy_Annots_Between_Docs/src/gate/copyAS2AnoDoc
+END
+CopyAS2AnoDocMain.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Copy_Annots_Between_Docs/src/gate/copyAS2AnoDoc/CopyAS2AnoDocMain.java
+END
+TestCopyAS2AnoDocPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Copy_Annots_Between_Docs/src/gate/copyAS2AnoDoc/TestCopyAS2AnoDocPlugin.java
+END

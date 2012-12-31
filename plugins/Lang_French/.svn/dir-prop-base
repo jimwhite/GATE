@@ -1,0 +1,12 @@
+K 10
+svn:ignore
+V 12
+*.jar
+build
+
+K 13
+svn:mergeinfo
+V 91
+/gate/branches/new-ontology-api/plugins/french:10584-11598
+/gate/trunk/plugins/french:3-390
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/creole/manager
+END
+AvailablePlugins.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/creole/manager/AvailablePlugins.java
+END
+ProgressPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/creole/manager/ProgressPanel.java
+END
+RemoteUpdateSite.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/creole/manager/RemoteUpdateSite.java
+END
+CreolePlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/creole/manager/CreolePlugin.java
+END
+JTextPaneTableCellRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/creole/manager/JTextPaneTableCellRenderer.java
+END
+PluginUpdateManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/gui/creole/manager/PluginUpdateManager.java
+END

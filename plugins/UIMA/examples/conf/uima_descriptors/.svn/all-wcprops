@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/UIMA/examples/conf/uima_descriptors
+END
+RemoteTokenHandler.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/UIMA/examples/conf/uima_descriptors/RemoteTokenHandler.xml
+END
+AllTokenRelatedAnnotators.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/UIMA/examples/conf/uima_descriptors/AllTokenRelatedAnnotators.xml
+END
+CountLowercaseAnnotator.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/UIMA/examples/conf/uima_descriptors/CountLowercaseAnnotator.xml
+END
+TokenPrinterAnnotator.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/UIMA/examples/conf/uima_descriptors/TokenPrinterAnnotator.xml
+END
+RemoveEvenLengthTokens.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/UIMA/examples/conf/uima_descriptors/RemoveEvenLengthTokens.xml
+END
+TokenHandlerAggregate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/UIMA/examples/conf/uima_descriptors/TokenHandlerAggregate.xml
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/util/spring
+END
+Init.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/util/spring/Init.java
+END
+ExtraGatePlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/util/spring/ExtraGatePlugin.java
+END
+SetParameterResourceCustomiser.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/util/spring/SetParameterResourceCustomiser.java
+END
+SpringFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/util/spring/SpringFactory.java
+END
+AddPRResourceCustomiser.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/util/spring/AddPRResourceCustomiser.java
+END
+ResourceCustomiser.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/util/spring/ResourceCustomiser.java
+END
+FeatureMapFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/util/spring/FeatureMapFactoryBean.java
+END
+GateAwareObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/util/spring/GateAwareObject.java
+END
+DuplicateResourceFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/util/spring/DuplicateResourceFactoryBean.java
+END
+SavedApplicationFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/util/spring/SavedApplicationFactoryBean.java
+END
+GateResourceFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/src/gate/util/spring/GateResourceFactoryBean.java
+END

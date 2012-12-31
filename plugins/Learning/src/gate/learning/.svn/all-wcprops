@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Learning/src/gate/learning
+END
+RunMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Learning/src/gate/learning/RunMode.java
+END
+ConstantParameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Learning/src/gate/learning/ConstantParameters.java
+END
+LightWeightLearningApi.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Learning/src/gate/learning/LightWeightLearningApi.java
+END
+NLPFeaturesList.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Learning/src/gate/learning/NLPFeaturesList.java
+END
+ChunkLengthStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Learning/src/gate/learning/ChunkLengthStats.java
+END
+ActiveLearningSetting.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Learning/src/gate/learning/ActiveLearningSetting.java
+END
+DataSetDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Learning/src/gate/learning/DataSetDefinition.java
+END
+ArgOfRelation.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Learning/src/gate/learning/ArgOfRelation.java
+END
+LabelsOfFV.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Learning/src/gate/learning/LabelsOfFV.java
+END
+Ngram.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Learning/src/gate/learning/Ngram.java
+END
+UsefulFunctions.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Learning/src/gate/learning/UsefulFunctions.java
+END
+LearningEngineSettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Learning/src/gate/learning/LearningEngineSettings.java
+END
+Attribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Learning/src/gate/learning/Attribute.java
+END
+EvaluationConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Learning/src/gate/learning/EvaluationConfiguration.java
+END
+Label2Id.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Learning/src/gate/learning/Label2Id.java
+END
+SparseFeatureVector.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Learning/src/gate/learning/SparseFeatureVector.java
+END
+AttributeRelation.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Learning/src/gate/learning/AttributeRelation.java
+END
+EvaluationMeasuresComputation.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Learning/src/gate/learning/EvaluationMeasuresComputation.java
+END
+LabelsOfFeatureVectorDoc.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Learning/src/gate/learning/LabelsOfFeatureVectorDoc.java
+END
+LearningAPIMain.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Learning/src/gate/learning/LearningAPIMain.java
+END
+LearnerSettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Learning/src/gate/learning/LearnerSettings.java
+END
+NLPFeaturesOfDoc.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Learning/src/gate/learning/NLPFeaturesOfDoc.java
+END
+DocFeatureVectors.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Learning/src/gate/learning/DocFeatureVectors.java
+END
+MiLearningInformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Learning/src/gate/learning/MiLearningInformation.java
+END
+LogService.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Learning/src/gate/learning/LogService.java
+END
+EvaluationBasedOnDocs.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Learning/src/gate/learning/EvaluationBasedOnDocs.java
+END
+ArraysDataSetDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gate/!svn/ver/16378/gate/tags/release-7.1/plugins/Learning/src/gate/learning/ArraysDataSetDefinition.java
+END
